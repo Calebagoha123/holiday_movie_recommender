@@ -1,0 +1,2411 @@
+tconst,genres
+tt0020356,['Comedy']
+tt0020823,"['Drama', 'Romance']"
+tt0020985,"['Comedy', 'Drama']"
+tt0021268,['Comedy']
+tt0021377,"['Comedy', 'Romance']"
+tt0021381,"['Adventure', 'Crime', 'Romance']"
+tt0023039,['Drama']
+tt0024869,"['Crime', 'Drama', 'Romance']"
+tt0025006,['Western']
+tt0025037,"['Drama', 'Fantasy', 'Romance']"
+tt0027456,"['Comedy', 'Musical', 'Romance']"
+tt0027923,"['Comedy', 'Mystery', 'Romance']"
+tt0028310,"['Drama', 'Romance']"
+tt0028576,"['Comedy', 'Crime', 'Mystery']"
+tt0028763,['Drama']
+tt0028843,"['Comedy', 'Musical']"
+tt0029894,"['Comedy', 'Drama']"
+tt0029992,"['Drama', 'Family', 'Fantasy']"
+tt0030027,"['Action', 'Crime', 'Drama']"
+tt0030241,"['Comedy', 'Romance']"
+tt0030897,"['Comedy', 'Music', 'Romance']"
+tt0031490,"['Comedy', 'Crime', 'Drama']"
+tt0032338,"['Comedy', 'Drama', 'Romance']"
+tt0034862,"['Comedy', 'Drama', 'Music']"
+tt0036014,"['Comedy', 'Music', 'Romance']"
+tt0036711,"['Crime', 'Drama', 'Film-Noir']"
+tt0036988,"['Comedy', 'History', 'Musical']"
+tt0037242,"['Comedy', 'Romance', 'War']"
+tt0037595,"['Comedy', 'Romance']"
+tt0038125,"['Drama', 'Thriller']"
+tt0038606,"['Comedy', 'Musical', 'Romance']"
+tt0038833,"['Crime', 'Drama']"
+tt0039203,"['Comedy', 'Family']"
+tt0039231,"['Action', 'Adventure', 'Comedy']"
+tt0039266,"['Comedy', 'Drama']"
+tt0039473,['Western']
+tt0039562,"['Drama', 'Fantasy']"
+tt0040443,"['Adventure', 'Comedy', 'Crime']"
+tt0040848,['Musical']
+tt0041099,
+tt0041473,"['Comedy', 'Drama', 'Family']"
+tt0041475,"['Comedy', 'Musical']"
+tt0041528,"['Crime', 'Drama', 'Film-Noir']"
+tt0042568,['Musical']
+tt0042665,"['Drama', 'Romance']"
+tt0044008,"['Drama', 'Family', 'Fantasy']"
+tt0044708,"['Drama', 'Romance']"
+tt0044715,['Drama']
+tt0046250,"['Comedy', 'Romance']"
+tt0046487,['Comedy']
+tt0047673,"['Comedy', 'Musical', 'Romance']"
+tt0047939,['Documentary']
+tt0048104,['Comedy']
+tt0051147,"['Comedy', 'Romance']"
+tt0051493,"['Music', 'Romance']"
+tt0052047,"['Action', 'Comedy', 'Romance']"
+tt0052284,"['Drama', 'War']"
+tt0052897,['Comedy']
+tt0054271,"['Adventure', 'Crime', 'Mystery']"
+tt0056334,"['Comedy', 'Drama']"
+tt0057541,"['Comedy', 'Musical', 'Romance']"
+tt0057637,"['Comedy', 'Fantasy', 'Romance']"
+tt0057916,"['Drama', 'Fantasy']"
+tt0058197,['Comedy']
+tt0059004,"['Comedy', 'Drama', 'Musical']"
+tt0059026,"['Animation', 'Comedy', 'Drama']"
+tt0059032,"['Family', 'Fantasy']"
+tt0060236,['Family']
+tt0060345,"['Animation', 'Comedy', 'Family']"
+tt0061844,"['Drama', 'Western']"
+tt0064037,['Drama']
+tt0065040,"['Adventure', 'Family']"
+tt0066975,"['Drama', 'Fantasy', 'Romance']"
+tt0067209,"['Drama', 'Family']"
+tt0067400,"['Family', 'Sci-Fi']"
+tt0068683,['Comedy']
+tt0068708,"['Drama', 'Horror', 'Mystery']"
+tt0068720,"['Drama', 'Family']"
+tt0070004,['Drama']
+tt0071222,"['Horror', 'Mystery', 'Thriller']"
+tt0071613,['Comedy']
+tt0073751,"['Animation', 'Family', 'Fantasy']"
+tt0074813,"['Comedy', 'Romance']"
+tt0075128,"['Adventure', 'Family', 'Fantasy']"
+tt0075449,"['Drama', 'Western']"
+tt0075846,['Drama']
+tt0075875,['Comedy']
+tt0075988,"['Comedy', 'Drama', 'Family']"
+tt0076213,"['Comedy', 'Fantasy']"
+tt0076448,"['Animation', 'Drama', 'Family']"
+tt0076783,['Drama']
+tt0077281,['Sci-Fi']
+tt0077333,"['Drama', 'Family']"
+tt0077465,['Comedy']
+tt0077710,['Comedy']
+tt0078132,"['Drama', 'Horror']"
+tt0078764,"['Drama', 'Fantasy']"
+tt0078968,['Drama']
+tt0079828,"['Adventure', 'Animation', 'Comedy']"
+tt0080531,"['Adventure', 'Drama', 'Family']"
+tt0080532,"['Drama', 'Music']"
+tt0080822,['Comedy']
+tt0081190,"['Drama', 'Family', 'Fantasy']"
+tt0081340,"['Animation', 'Comedy', 'Family']"
+tt0081793,"['Horror', 'Thriller']"
+tt0085231,"['Comedy', 'Family']"
+tt0085282,"['Drama', 'Family']"
+tt0085334,"['Comedy', 'Family']"
+tt0085593,['Drama']
+tt0085933,"['Drama', 'War']"
+tt0087056,"['Drama', 'Family', 'Fantasy']"
+tt0087548,['Music']
+tt0087797,"['Drama', 'Family', 'Fantasy']"
+tt0088106,"['Comedy', 'Romance']"
+tt0089038,"['Horror', 'Mystery']"
+tt0089285,['Drama']
+tt0089731,"['Family', 'Fantasy']"
+tt0090838,['Drama']
+tt0090839,['Drama']
+tt0090840,"['Drama', 'Family']"
+tt0091975,"['Fantasy', 'Music']"
+tt0092167,"['Comedy', 'Family', 'Sci-Fi']"
+tt0092756,"['Drama', 'Family', 'Fantasy']"
+tt0093198,['Drama']
+tt0093877,"['Comedy', 'Drama', 'Romance']"
+tt0094754,"['Comedy', 'History']"
+tt0094873,['Drama']
+tt0095107,"['Comedy', 'Family', 'Fantasy']"
+tt0095347,['Drama']
+tt0095416,"['Family', 'Music']"
+tt0095589,['Drama']
+tt0096376,"['Comedy', 'Drama', 'Family']"
+tt0097126,['Drama']
+tt0097157,"['Drama', 'Thriller']"
+tt0097601,"['Adventure', 'Comedy']"
+tt0097958,['Comedy']
+tt0099263,"['Family', 'Fantasy', 'Musical']"
+tt0099711,"['Comedy', 'Fantasy', 'Sci-Fi']"
+tt0099780,['Drama']
+tt0099787,"['Drama', 'Family']"
+tt0099930,['Drama']
+tt0100173,"['Comedy', 'Family', 'Fantasy']"
+tt0101301,"['Comedy', 'Family', 'Romance']"
+tt0101348,"['Adventure', 'Crime', 'Family']"
+tt0101580,"['Drama', 'Romance']"
+tt0102285,"['Comedy', 'Romance', 'Thriller']"
+tt0102821,"['Crime', 'Drama', 'Thriller']"
+tt0103960,['Drama']
+tt0103961,"['Comedy', 'Romance']"
+tt0104940,"['Comedy', 'Drama', 'Family']"
+tt0105694,"['Comedy', 'Drama']"
+tt0107688,"['Animation', 'Family', 'Fantasy']"
+tt0109425,"['Comedy', 'Drama', 'Family']"
+tt0110732,"['Drama', 'Family']"
+tt0112509,['Musical']
+tt0112667,"['Drama', 'Fantasy']"
+tt0112668,"['Adventure', 'Animation', 'Drama']"
+tt0113321,"['Comedy', 'Drama', 'Romance']"
+tt0115891,"['Comedy', 'Fantasy']"
+tt0115892,"['Drama', 'Family']"
+tt0115893,"['Animation', 'Fantasy', 'Short']"
+tt0116092,"['Comedy', 'Fantasy']"
+tt0116189,['Family']
+tt0116321,"['Animation', 'Short']"
+tt0116544,"['Comedy', 'Romance']"
+tt0116717,['Comedy']
+tt0116984,"['Documentary', 'Music']"
+tt0117109,"['Comedy', 'Family', 'Horror']"
+tt0118201,['Drama']
+tt0118692,"['Animation', 'Family', 'Fantasy']"
+tt0120489,"['Comedy', 'Romance']"
+tt0122019,"['Adventure', 'Animation', 'Family']"
+tt0122244,['Musical']
+tt0122260,['Drama']
+tt0122272,"['Drama', 'Family']"
+tt0122494,"['Adventure', 'Animation', 'Family']"
+tt0123179,"['Animation', 'Comedy', 'Drama']"
+tt0124013,"['Comedy', 'Family', 'Musical']"
+tt0125465,['Drama']
+tt0125945,['Comedy']
+tt0126946,"['Drama', 'Music']"
+tt0128083,"['Comedy', 'Family', 'Fantasy']"
+tt0128995,"['Animation', 'Family']"
+tt0129145,['Comedy']
+tt0129359,"['Comedy', 'Drama', 'Family']"
+tt0129827,['Drama']
+tt0135187,"['Drama', 'Family']"
+tt0135412,"['Comedy', 'Musical', 'Romance']"
+tt0135467,"['Drama', 'Romance']"
+tt0135636,"['Animation', 'Family']"
+tt0136399,['Fantasy']
+tt0136444,"['Comedy', 'Drama']"
+tt0136755,"['Comedy', 'Fantasy', 'Romance']"
+tt0137000,"['Drama', 'Family', 'Romance']"
+tt0137044,['Drama']
+tt0137098,"['Drama', 'War']"
+tt0139393,['Animation']
+tt0140605,"['Animation', 'Family']"
+tt0140825,"['Drama', 'Romance']"
+tt0144827,['Family']
+tt0144828,
+tt0155110,"['Comedy', 'Family']"
+tt0155570,"['Animation', 'Comedy', 'Family']"
+tt0155753,"['Comedy', 'Family']"
+tt0156400,['Drama']
+tt0158515,"['Animation', 'Family']"
+tt0158530,"['Comedy', 'Drama', 'Romance']"
+tt0164648,"['Drama', 'Romance']"
+tt0164654,"['Drama', 'Romance']"
+tt0166960,"['Adventure', 'Animation', 'Comedy']"
+tt0167248,"['Drama', 'Family']"
+tt0170016,"['Comedy', 'Family', 'Fantasy']"
+tt0170547,"['Family', 'Fantasy']"
+tt0172238,"['Drama', 'Family']"
+tt0173731,['Documentary']
+tt0174550,"['Adventure', 'Drama', 'Family']"
+tt0176292,['Family']
+tt0176987,"['Animation', 'Family']"
+tt0177248,
+tt0177398,['Short']
+tt0178787,['Comedy']
+tt0179681,['Comedy']
+tt0179682,"['Animation', 'Family']"
+tt0180860,"['Crime', 'Thriller']"
+tt0180984,['Documentary']
+tt0181570,"['Drama', 'Family', 'Romance']"
+tt0182015,"['Animation', 'Family', 'Sci-Fi']"
+tt0182307,['Comedy']
+tt0182983,"['Comedy', 'Drama', 'Romance']"
+tt0183681,['Comedy']
+tt0185235,"['Documentary', 'Music']"
+tt0187774,['Comedy']
+tt0187775,['Comedy']
+tt0188504,"['Drama', 'Fantasy']"
+tt0189741,"['Romance', 'Sci-Fi']"
+tt0193163,"['Animation', 'Family']"
+tt0193164,"['Animation', 'Comedy', 'Family']"
+tt0193430,['Drama']
+tt0193524,"['Adventure', 'Family', 'Musical']"
+tt0195039,"['Family', 'Fantasy']"
+tt0196565,['Documentary']
+tt0198321,['Family']
+tt0199161,"['Animation', 'Comedy', 'Family']"
+tt0200245,"['Comedy', 'Romance']"
+tt0204956,
+tt0208654,"['Animation', 'Comedy', 'Family']"
+tt0213965,"['Drama', 'Romance']"
+tt0214227,['Drama']
+tt0216621,"['Drama', 'Fantasy']"
+tt0216735,"['Comedy', 'Drama', 'Romance']"
+tt0217978,"['Crime', 'Drama', 'Thriller']"
+tt0218066,['Documentary']
+tt0219095,['Documentary']
+tt0220159,"['Adventure', 'Animation', 'Comedy']"
+tt0220525,['Documentary']
+tt0220616,['Family']
+tt0221074,"['Comedy', 'Family', 'Romance']"
+tt0222925,
+tt0223467,
+tt0223623,"['Drama', 'Fantasy']"
+tt0223634,"['Animation', 'Comedy', 'Family']"
+tt0225393,"['Drama', 'Fantasy']"
+tt0225394,"['Drama', 'Fantasy']"
+tt0225829,"['Animation', 'Family']"
+tt0228137,"['Drama', 'Fantasy']"
+tt0228296,['Family']
+tt0228332,"['Fantasy', 'Music']"
+tt0230744,"['Drama', 'Family', 'Fantasy']"
+tt0231364,"['Comedy', 'Family', 'Music']"
+tt0233828,['Documentary']
+tt0235846,['Drama']
+tt0237604,"['Comedy', 'Family']"
+tt0238063,['Family']
+tt0238121,['Drama']
+tt0238414,"['Animation', 'Comedy', 'Family']"
+tt0240878,"['Animation', 'Drama', 'Fantasy']"
+tt0241966,"['Adventure', 'Animation', 'Comedy']"
+tt0242135,"['Animation', 'Family']"
+tt0242389,"['Animation', 'Drama', 'Family']"
+tt0242848,"['Comedy', 'Drama', 'Family']"
+tt0243372,"['Comedy', 'Family']"
+tt0243375,['Family']
+tt0244462,
+tt0245052,
+tt0245836,['Family']
+tt0249991,['Animation']
+tt0250038,
+tt0250425,['Drama']
+tt0250948,"['Animation', 'Family', 'Sci-Fi']"
+tt0251021,['Documentary']
+tt0251126,"['Animation', 'Family', 'Fantasy']"
+tt0251282,"['Comedy', 'Family', 'Musical']"
+tt0251640,"['Comedy', 'Family', 'Musical']"
+tt0252028,"['Comedy', 'Romance']"
+tt0256466,"['Comedy', 'Family']"
+tt0257255,"['Adventure', 'Comedy', 'Family']"
+tt0257484,"['Drama', 'Family']"
+tt0259459,"['Drama', 'Family']"
+tt0259741,"['Comedy', 'Romance']"
+tt0259894,"['Comedy', 'Documentary', 'Music']"
+tt0259929,"['Animation', 'Family', 'Fantasy']"
+tt0260824,"['Animation', 'Comedy']"
+tt0261823,['Comedy']
+tt0261843,"['Adventure', 'Comedy']"
+tt0262815,['Animation']
+tt0263206,"['Animation', 'Comedy', 'Musical']"
+tt0264483,['Family']
+tt0264821,
+tt0267978,"['Adventure', 'Animation', 'Comedy']"
+tt0268096,"['Adventure', 'Animation', 'Comedy']"
+tt0268677,"['Animation', 'Family']"
+tt0268948,"['Animation', 'Comedy', 'Family']"
+tt0269331,['Drama']
+tt0269988,"['Animation', 'Family', 'Musical']"
+tt0270278,"['Comedy', 'Fantasy']"
+tt0270281,"['Adventure', 'Animation', 'Comedy']"
+tt0270317,"['Comedy', 'Drama', 'Fantasy']"
+tt0270884,"['Comedy', 'Drama', 'Family']"
+tt0272046,"['Drama', 'Family', 'Fantasy']"
+tt0273603,
+tt0273726,"['Horror', 'Thriller']"
+tt0275225,['Family']
+tt0275437,
+tt0276016,"['Action', 'Adventure', 'Animation']"
+tt0276338,"['Animation', 'Family']"
+tt0278150,"['Drama', 'Family']"
+tt0279732,"['Drama', 'Short']"
+tt0281344,
+tt0281766,['Musical']
+tt0283285,['Comedy']
+tt0283620,['Family']
+tt0283851,['Short']
+tt0284362,"['Animation', 'Family', 'Musical']"
+tt0284946,"['Animation', 'Comedy', 'Family']"
+tt0285020,"['Family', 'Music', 'Musical']"
+tt0285022,"['Animation', 'Family', 'Music']"
+tt0285192,['Thriller']
+tt0285225,"['Adventure', 'Animation', 'Comedy']"
+tt0287029,"['Animation', 'Family', 'Short']"
+tt0289415,['Animation']
+tt0289700,"['Family', 'Fantasy']"
+tt0290182,"['Animation', 'Comedy', 'Family']"
+tt0290321,"['Drama', 'Family']"
+tt0291029,"['Animation', 'Family']"
+tt0291816,"['Drama', 'Fantasy']"
+tt0293550,"['Animation', 'Short']"
+tt0293783,"['Animation', 'Family']"
+tt0295473,['Comedy']
+tt0296867,['Comedy']
+tt0297017,"['Animation', 'Family']"
+tt0297169,"['Comedy', 'Crime', 'Family']"
+tt0298580,"['Comedy', 'Drama', 'Family']"
+tt0299947,['Documentary']
+tt0300195,"['Adventure', 'Animation', 'Comedy']"
+tt0301475,"['Animation', 'Family', 'Fantasy']"
+tt0302301,"['Documentary', 'Music']"
+tt0302411,['Animation']
+tt0303318,"['Adventure', 'Animation', 'Drama']"
+tt0303725,"['Adventure', 'Animation', 'Family']"
+tt0303847,"['Comedy', 'Horror']"
+tt0304496,"['Family', 'Musical']"
+tt0304555,['Documentary']
+tt0305312,"['Adventure', 'Animation', 'Comedy']"
+tt0305366,
+tt0305390,"['Comedy', 'Family']"
+tt0305767,"['Animation', 'Family']"
+tt0306424,"['Animation', 'Comedy']"
+tt0308246,"['Animation', 'Comedy', 'Family']"
+tt0314176,['Drama']
+tt0315398,"['Action', 'Drama']"
+tt0316352,"['Action', 'Comedy', 'Crime']"
+tt0319404,"['Comedy', 'Drama', 'Family']"
+tt0321305,['Comedy']
+tt0321681,"['Drama', 'Fantasy']"
+tt0324344,"['Animation', 'Family']"
+tt0326163,"['Family', 'Musical']"
+tt0328116,"['Drama', 'Family']"
+tt0329098,"['Animation', 'Comedy', 'Family']"
+tt0329634,"['Comedy', 'Family', 'Music']"
+tt0329737,"['Adventure', 'Comedy', 'Family']"
+tt0330149,"['Drama', 'Family', 'Fantasy']"
+tt0330151,"['Drama', 'Family', 'Fantasy']"
+tt0330152,"['Drama', 'Family']"
+tt0330768,"['Animation', 'Comedy', 'Family']"
+tt0331185,"['Animation', 'Comedy']"
+tt0331217,"['Comedy', 'Family', 'Music']"
+tt0331439,"['Comedy', 'Documentary', 'War']"
+tt0331997,"['Adventure', 'Comedy', 'Family']"
+tt0335093,"['Animation', 'Comedy', 'Family']"
+tt0336166,['Drama']
+tt0336767,['Comedy']
+tt0337689,['Comedy']
+tt0339343,"['Biography', 'Drama', 'Family']"
+tt0343531,['Drama']
+tt0344267,"['Documentary', 'Short']"
+tt0344269,"['Documentary', 'Short']"
+tt0345037,"['Drama', 'Family', 'Fantasy']"
+tt0345039,"['Drama', 'Family', 'Fantasy']"
+tt0346706,"['Comedy', 'Family']"
+tt0346707,"['Comedy', 'Family']"
+tt0346750,['Drama']
+tt0348254,"['Comedy', 'Music']"
+tt0349502,"['Documentary', 'Family']"
+tt0352082,"['Comedy', 'Documentary']"
+tt0355327,['Comedy']
+tt0355790,"['Comedy', 'Crime', 'Drama']"
+tt0356408,"['Adventure', 'Animation', 'Comedy']"
+tt0359409,['Family']
+tt0363240,"['Music', 'Sci-Fi']"
+tt0364998,['Drama']
+tt0365390,"['Drama', 'Family', 'Fantasy']"
+tt0366307,"['Animation', 'Comedy', 'Family']"
+tt0366691,['Family']
+tt0367623,['Comedy']
+tt0369000,"['Comedy', 'Family']"
+tt0369436,"['Comedy', 'Drama', 'Romance']"
+tt0370750,"['Comedy', 'Musical', 'Romance']"
+tt0370767,
+tt0372004,"['Comedy', 'Drama', 'Romance']"
+tt0376932,['Family']
+tt0379215,"['Comedy', 'Drama']"
+tt0380728,"['Comedy', 'Crime', 'Drama']"
+tt0381268,['Romance']
+tt0381942,"['Comedy', 'Family', 'Fantasy']"
+tt0385567,"['Comedy', 'Drama', 'Family']"
+tt0385737,"['Comedy', 'Romance']"
+tt0386282,['Documentary']
+tt0387301,"['Animation', 'Comedy', 'Family']"
+tt0388419,"['Comedy', 'Family']"
+tt0390302,"['Comedy', 'Musical']"
+tt0390954,"['Animation', 'Comedy', 'Family']"
+tt0391404,"['Action', 'Adventure', 'Animation']"
+tt0392009,"['Animation', 'Comedy', 'Family']"
+tt0392794,['Family']
+tt0392819,['Fantasy']
+tt0393052,"['Comedy', 'Documentary', 'Short']"
+tt0393249,"['Comedy', 'Family', 'Music']"
+tt0395968,['Documentary']
+tt0396200,['Animation']
+tt0396209,"['Mystery', 'Thriller']"
+tt0396517,"['Adventure', 'Comedy', 'Musical']"
+tt0396826,"['Adventure', 'Family']"
+tt0396888,['Fantasy']
+tt0396889,"['Comedy', 'Family', 'Fantasy']"
+tt0397368,['Comedy']
+tt0398094,['Documentary']
+tt0398311,"['Comedy', 'Family', 'Fantasy']"
+tt0399837,"['Animation', 'Comedy', 'Family']"
+tt0400299,['Comedy']
+tt0403452,"['Comedy', 'Drama']"
+tt0405006,"['Comedy', 'Musical']"
+tt0405096,"['Animation', 'Family']"
+tt0405615,"['Drama', 'Family']"
+tt0405673,['Comedy']
+tt0406649,"['Drama', 'Fantasy', 'Musical']"
+tt0407043,['Animation']
+tt0408814,"['Adventure', 'Animation', 'Fantasy']"
+tt0408985,"['Comedy', 'Drama', 'Romance']"
+tt0412366,"['Drama', 'Family']"
+tt0413447,['Family']
+tt0414243,"['Animation', 'Comedy', 'Romance']"
+tt0415097,"['Documentary', 'Short']"
+tt0415478,"['Animation', 'Family', 'Short']"
+tt0415706,"['Documentary', 'Short']"
+tt0418599,"['Comedy', 'Romance']"
+tt0419470,"['Documentary', 'Short']"
+tt0420550,['Drama']
+tt0421151,['Drama']
+tt0424279,"['Animation', 'Comedy', 'Family']"
+tt0424517,['Comedy']
+tt0427224,"['Comedy', 'Family', 'Fantasy']"
+tt0427269,['Family']
+tt0427430,['Comedy']
+tt0431438,"['Adventure', 'Comedy', 'Family']"
+tt0434353,"['Comedy', 'Sci-Fi', 'Short']"
+tt0435616,['Family']
+tt0436855,"['Comedy', 'Drama', 'Fantasy']"
+tt0439312,['Horror']
+tt0439334,"['Adventure', 'Animation', 'Comedy']"
+tt0439567,"['Animation', 'Family', 'Musical']"
+tt0439734,"['Animation', 'Family']"
+tt0439856,['Comedy']
+tt0440084,"['Adventure', 'Comedy', 'Drama']"
+tt0440205,"['Comedy', 'Drama']"
+tt0440444,['Documentary']
+tt0441610,"['Animation', 'Family']"
+tt0441634,['Drama']
+tt0442666,['Family']
+tt0443476,"['Adventure', 'Animation', 'Family']"
+tt0443495,"['Comedy', 'Family', 'Music']"
+tt0443734,"['Comedy', 'Fantasy']"
+tt0443759,['Comedy']
+tt0444765,['Romance']
+tt0445929,['Comedy']
+tt0447615,"['Documentary', 'Family']"
+tt0449027,['Family']
+tt0449042,['Family']
+tt0450827,"['Comedy', 'Fantasy', 'Horror']"
+tt0451073,['Comedy']
+tt0452599,"['Animation', 'Drama', 'Fantasy']"
+tt0452829,['Drama']
+tt0453338,['Documentary']
+tt0453451,"['Comedy', 'Family']"
+tt0454082,['Horror']
+tt0457939,"['Comedy', 'Romance']"
+tt0459502,"['Comedy', 'Drama']"
+tt0461062,"['Drama', 'Musical', 'Romance']"
+tt0462263,"['Comedy', 'Romance']"
+tt0464929,"['Comedy', 'Music']"
+tt0464930,"['Comedy', 'Music']"
+tt0467516,"['Drama', 'Romance']"
+tt0475969,"['Drama', 'Family']"
+tt0476448,"['Music', 'Short']"
+tt0477715,"['Animation', 'Comedy', 'Short']"
+tt0478863,"['Animation', 'Fantasy']"
+tt0479152,"['Comedy', 'Drama', 'Family']"
+tt0480008,"['Comedy', 'Fantasy']"
+tt0480844,['Comedy']
+tt0483445,"['Animation', 'Comedy', 'Family']"
+tt0485345,"['Comedy', 'Family', 'Musical']"
+tt0486292,"['Comedy', 'Romance']"
+tt0487263,"['Family', 'Music']"
+tt0491718,"['Adventure', 'Animation', 'Comedy']"
+tt0493148,"['Drama', 'Family']"
+tt0493294,"['Animation', 'Family']"
+tt0494208,['Drama']
+tt0494214,"['Animation', 'Family']"
+tt0494662,"['Documentary', 'Music']"
+tt0495165,"['Animation', 'Short']"
+tt0495818,"['Animation', 'Drama', 'Family']"
+tt0496411,"['Comedy', 'Family']"
+tt0497025,"['Comedy', 'Romance']"
+tt0497030,"['Comedy', 'Drama', 'Romance']"
+tt0498016,"['Comedy', 'Short']"
+tt0498246,"['Family', 'Musical']"
+tt0498361,['Family']
+tt0499003,"['Animation', 'Comedy', 'Drama']"
+tt0499064,['Comedy']
+tt0499437,"['Documentary', 'Family']"
+tt0595252,
+tt0595302,
+tt0595367,['Drama']
+tt0756632,"['Drama', 'Family', 'Romance']"
+tt0757223,"['Action', 'Crime', 'Drama']"
+tt0758776,['Comedy']
+tt0760178,"['Adventure', 'Animation', 'Family']"
+tt0760233,"['Animation', 'Family', 'Musical']"
+tt0762148,"['Adventure', 'Animation', 'Comedy']"
+tt0765507,"['Family', 'Musical']"
+tt0766235,['Animation']
+tt0766251,['Family']
+tt0769527,"['Family', 'Short']"
+tt0770729,['Family']
+tt0772176,"['Drama', 'Family', 'Fantasy']"
+tt0783494,"['Drama', 'Romance']"
+tt0788133,['Comedy']
+tt0791078,"['Family', 'Short']"
+tt0791333,['Family']
+tt0800058,['Comedy']
+tt0800115,"['Comedy', 'Drama', 'Family']"
+tt0806942,
+tt0807735,"['Animation', 'Family', 'Fantasy']"
+tt0810927,"['Adventure', 'Comedy', 'Family']"
+tt0814039,"['Animation', 'Family']"
+tt0814079,['Comedy']
+tt0816577,['Drama']
+tt0817495,['Drama']
+tt0817520,['Animation']
+tt0824748,"['Documentary', 'History', 'War']"
+tt0826090,['Documentary']
+tt0826768,"['Drama', 'Family', 'History']"
+tt0829117,['Music']
+tt0837156,"['Comedy', 'Family']"
+tt0839760,['Animation']
+tt0840303,"['Comedy', 'Family', 'Fantasy']"
+tt0840350,"['Animation', 'Family', 'Fantasy']"
+tt0841032,"['Comedy', 'Family', 'Fantasy']"
+tt0843992,['Drama']
+tt0847537,"['Family', 'Music', 'Short']"
+tt0849446,['Comedy']
+tt0849447,"['Animation', 'Comedy']"
+tt0856282,['Comedy']
+tt0857219,"['Comedy', 'Drama']"
+tt0860458,"['Comedy', 'Family']"
+tt0860474,['Drama']
+tt0871968,"['Comedy', 'Romance']"
+tt0872243,"['Comedy', 'Drama', 'Romance']"
+tt0878836,"['Comedy', 'Drama']"
+tt0884775,"['Comedy', 'Music']"
+tt0884776,['War']
+tt0884793,"['Animation', 'Drama', 'Family']"
+tt0885415,"['Adventure', 'Animation', 'Family']"
+tt0893404,"['Drama', 'Family']"
+tt0896522,"['Adventure', 'Animation', 'Comedy']"
+tt0899195,['Family']
+tt0900916,['Comedy']
+tt0906599,"['Drama', 'Family', 'Fantasy']"
+tt0906604,['Music']
+tt0907643,['Comedy']
+tt0910885,"['Comedy', 'Drama']"
+tt0913441,"['Documentary', 'Horror']"
+tt0918500,"['Animation', 'Short']"
+tt0918511,"['Comedy', 'Family', 'Fantasy']"
+tt0920465,"['Adventure', 'Animation', 'Comedy']"
+tt0920737,"['Animation', 'Family']"
+tt0920894,['Animation']
+tt0927585,"['Comedy', 'Family', 'Short']"
+tt0927655,"['Comedy', 'Family', 'Short']"
+tt0928364,['Comedy']
+tt0934605,"['Animation', 'Family']"
+tt0936481,"['Animation', 'Short']"
+tt0937375,"['Comedy', 'Drama', 'Romance']"
+tt0938666,"['Comedy', 'Drama', 'Family']"
+tt0939616,['Comedy']
+tt0950740,"['Comedy', 'Drama']"
+tt0956328,['Animation']
+tt0960708,"['Horror', 'Short']"
+tt0961738,['Comedy']
+tt0977673,['Drama']
+tt0991150,"['Comedy', 'Crime', 'Family']"
+tt0992992,"['Drama', 'Romance']"
+tt0993789,"['Comedy', 'Drama']"
+tt0999872,"['Biography', 'Drama']"
+tt10006006,"['Family', 'Romance']"
+tt10027488,['Musical']
+tt10060094,"['Adventure', 'Comedy', 'Drama']"
+tt10091530,"['Comedy', 'Drama', 'Family']"
+tt10118110,"['Drama', 'Romance']"
+tt10136898,"['Drama', 'Family', 'Romance']"
+tt10149756,"['Drama', 'Romance']"
+tt10154790,['Romance']
+tt10156020,"['Crime', 'Drama', 'Romance']"
+tt10157552,"['Crime', 'Horror', 'Thriller']"
+tt1016032,['Animation']
+tt10161708,['Fantasy']
+tt10165624,"['Comedy', 'Family', 'Romance']"
+tt10176734,"['Comedy', 'Romance']"
+tt10177634,"['Comedy', 'Romance']"
+tt10187208,"['Adventure', 'Drama', 'Family']"
+tt1018930,['Family']
+tt10203940,"['Comedy', 'Family', 'Fantasy']"
+tt1020940,['Drama']
+tt1020981,['Animation']
+tt10210182,"['Drama', 'Romance']"
+tt10220226,['Comedy']
+tt1024657,"['Documentary', 'Horror', 'Short']"
+tt10272460,"['Family', 'Fantasy']"
+tt10277930,['Comedy']
+tt1028555,"['Documentary', 'Short']"
+tt10295168,"['Comedy', 'Drama', 'Romance']"
+tt10309574,['Drama']
+tt10319778,['Documentary']
+tt10326928,"['Comedy', 'Family', 'Fantasy']"
+tt10328320,"['Comedy', 'Romance']"
+tt10338176,"['Comedy', 'Family']"
+tt10344956,"['Drama', 'Romance']"
+tt10344986,"['Drama', 'Romance']"
+tt10345008,"['Drama', 'Romance']"
+tt10383902,"['Drama', 'Family', 'Romance']"
+tt10399114,"['Drama', 'Family', 'Fantasy']"
+tt10418044,['Family']
+tt1042326,"['Comedy', 'Documentary', 'Family']"
+tt10433222,"['Comedy', 'Drama', 'Romance']"
+tt10448992,['Drama']
+tt1046243,['Family']
+tt10471748,"['Drama', 'Family', 'Romance']"
+tt10476682,"['Drama', 'Fantasy', 'Music']"
+tt10481792,['Romance']
+tt10481868,"['Horror', 'Mystery', 'Thriller']"
+tt10482348,"['Comedy', 'Drama', 'Family']"
+tt10504966,"['Drama', 'Musical']"
+tt1051215,['Animation']
+tt10516322,['Romance']
+tt1053429,['Comedy']
+tt1054055,"['Animation', 'Family']"
+tt10545474,['Romance']
+tt10553910,"['Comedy', 'Drama', 'Romance']"
+tt10571920,"['Drama', 'Romance']"
+tt10583460,"['Drama', 'Romance']"
+tt10623478,"['Comedy', 'Drama', 'Mystery']"
+tt10627548,"['Comedy', 'Family', 'Musical']"
+tt10627564,"['Drama', 'Family', 'Romance']"
+tt10635588,['Family']
+tt10642154,"['Comedy', 'Drama', 'Romance']"
+tt10642244,"['Comedy', 'Romance']"
+tt10650924,"['Comedy', 'Drama', 'Romance']"
+tt10659766,['Romance']
+tt10667026,"['Comedy', 'Drama', 'Family']"
+tt1067106,"['Adventure', 'Animation', 'Comedy']"
+tt1067769,"['Comedy', 'Family', 'Fantasy']"
+tt10700392,"['Drama', 'Romance']"
+tt10733770,"['Adventure', 'Drama', 'Family']"
+tt10742934,"['Comedy', 'Crime', 'Thriller']"
+tt10754206,['Comedy']
+tt10768194,"['Drama', 'Romance']"
+tt10768208,"['Drama', 'Music', 'Romance']"
+tt10768278,"['Comedy', 'Drama', 'Romance']"
+tt10768312,"['Drama', 'Romance']"
+tt10768328,"['Drama', 'Romance']"
+tt10768410,"['Music', 'Romance']"
+tt10768456,"['Comedy', 'Drama', 'Romance']"
+tt1077081,"['Family', 'Music']"
+tt1077093,['Music']
+tt10771556,"['Drama', 'Family', 'Romance']"
+tt10778144,['Comedy']
+tt10799008,"['Comedy', 'Drama', 'Fantasy']"
+tt10804410,"['Comedy', 'Romance']"
+tt10808294,"['Romance', 'Western']"
+tt1082815,['Comedy']
+tt1083448,"['Comedy', 'Drama', 'Family']"
+tt1083987,"['Comedy', 'Family']"
+tt1083992,"['Comedy', 'Fantasy']"
+tt10840162,['Comedy']
+tt10854916,"['Comedy', 'Romance']"
+tt10872952,['Drama']
+tt10873852,"['Drama', 'Family', 'Romance']"
+tt10875028,"['Comedy', 'Drama', 'Family']"
+tt1087847,"['Animation', 'Family']"
+tt10887838,"['Comedy', 'Drama', 'Romance']"
+tt10887846,"['Comedy', 'Drama', 'Romance']"
+tt10887870,"['Comedy', 'Drama', 'Romance']"
+tt10887880,"['Comedy', 'Drama', 'Romance']"
+tt1091175,"['Animation', 'Family', 'Musical']"
+tt10921042,"['Drama', 'Romance']"
+tt10921256,"['Comedy', 'Drama', 'Family']"
+tt10922620,['Romance']
+tt10922632,"['Fantasy', 'Romance']"
+tt10922658,"['Drama', 'Romance']"
+tt10925434,['Romance']
+tt10925460,['Romance']
+tt1092552,['Animation']
+tt10925838,"['Comedy', 'Drama', 'Romance']"
+tt10926350,"['Drama', 'Romance']"
+tt10926390,['Romance']
+tt10936658,['Family']
+tt10952042,"['Comedy', 'Romance']"
+tt10953626,['Romance']
+tt10963938,['Romance']
+tt10963986,"['Comedy', 'Romance']"
+tt10964186,['Drama']
+tt10964214,['Romance']
+tt10964346,"['Comedy', 'Romance']"
+tt10964516,"['Drama', 'Romance']"
+tt10964532,"['Comedy', 'Romance']"
+tt10979386,"['Family', 'Romance']"
+tt10993786,['Romance']
+tt10997536,['Comedy']
+tt11020096,['Family']
+tt1105269,"['Comedy', 'Drama']"
+tt1105274,"['Comedy', 'Family']"
+tt11057644,"['Adventure', 'Comedy', 'Family']"
+tt11060704,['Romance']
+tt11068326,"['Drama', 'Romance']"
+tt11090180,"['Comedy', 'Drama']"
+tt11090204,"['Comedy', 'Drama']"
+tt11090230,"['Comedy', 'Drama', 'Romance']"
+tt11096888,"['Comedy', 'Fantasy', 'Romance']"
+tt11100776,"['Comedy', 'Drama', 'Romance']"
+tt11120440,['Comedy']
+tt1112097,"['Family', 'Romance']"
+tt11125908,"['Comedy', 'Family']"
+tt11127418,"['Animation', 'Family']"
+tt11141290,"['Comedy', 'Mystery']"
+tt11151688,"['Drama', 'Romance']"
+tt11171322,"['Drama', 'Music', 'Romance']"
+tt11192428,['Family']
+tt11193190,"['Drama', 'Family', 'Romance']"
+tt11193888,"['Comedy', 'Family']"
+tt11225428,['Music']
+tt11230402,"['Comedy', 'Drama', 'Romance']"
+tt11241514,"['Drama', 'Romance']"
+tt11241932,['Documentary']
+tt1125861,"['Animation', 'Family']"
+tt1125873,"['Animation', 'Family', 'Fantasy']"
+tt11260886,"['Drama', 'Family', 'Romance']"
+tt1127697,"['Animation', 'Family', 'Short']"
+tt11290298,"['Comedy', 'Drama', 'Music']"
+tt11318886,
+tt1132143,"['Documentary', 'Music']"
+tt11324626,"['Drama', 'Romance']"
+tt1132578,"['Comedy', 'Drama']"
+tt11353048,"['Comedy', 'Short']"
+tt11354244,['Comedy']
+tt11357028,"['Drama', 'Family', 'Romance']"
+tt11358194,"['Drama', 'Family']"
+tt1136606,['Music']
+tt11371224,['Documentary']
+tt11378154,['Comedy']
+tt11383142,"['Comedy', 'Drama', 'Family']"
+tt11386622,"['Family', 'Musical']"
+tt1139113,"['Animation', 'Family']"
+tt1139659,"['Comedy', 'Family', 'Short']"
+tt11417166,"['Comedy', 'Drama']"
+tt1141984,"['Adventure', 'Animation', 'Comedy']"
+tt11421878,"['Documentary', 'History', 'Music']"
+tt11422336,"['Drama', 'Romance']"
+tt11427974,"['Drama', 'Family']"
+tt11437784,['Family']
+tt11451132,['Comedy']
+tt11455096,['Documentary']
+tt11457736,"['Comedy', 'Drama', 'Family']"
+tt1146278,"['Comedy', 'Horror']"
+tt1146294,"['Adventure', 'Animation', 'Comedy']"
+tt1147654,"['Animation', 'Family']"
+tt11488988,"['Documentary', 'History']"
+tt1149589,"['Animation', 'Family']"
+tt11508080,['Romance']
+tt1150958,"['Family', 'Musical']"
+tt1151447,"['Animation', 'Family']"
+tt1151915,"['Comedy', 'Drama', 'Romance']"
+tt11536760,['Musical']
+tt11540284,"['Comedy', 'Family']"
+tt1155051,['Comedy']
+tt1157557,['Fantasy']
+tt11585172,"['Drama', 'Family', 'Romance']"
+tt11585200,"['Drama', 'Family', 'Romance']"
+tt1159198,"['Comedy', 'Family', 'Romance']"
+tt1159925,['Family']
+tt11615500,"['Comedy', 'Drama', 'Romance']"
+tt1163297,['Family']
+tt11637974,"['Comedy', 'Romance']"
+tt11640628,['Family']
+tt1164729,['Documentary']
+tt1164730,['Documentary']
+tt11649070,"['Documentary', 'Short']"
+tt11649132,"['Documentary', 'Short']"
+tt11649218,"['Documentary', 'Short']"
+tt11666938,"['Comedy', 'Drama', 'Romance']"
+tt11667022,"['Drama', 'Romance']"
+tt1169852,['Documentary']
+tt11702278,"['Comedy', 'Drama', 'Family']"
+tt11738870,['Romance']
+tt11753704,"['Drama', 'Romance']"
+tt1175514,['Animation']
+tt11764856,['Drama']
+tt11766316,"['Adventure', 'Animation', 'Family']"
+tt1177949,"['Adventure', 'Animation', 'Comedy']"
+tt1179275,"['Animation', 'Family']"
+tt1180340,"['Adventure', 'Animation', 'Comedy']"
+tt1182600,"['Documentary', 'Short']"
+tt1182607,['Music']
+tt11828420,"['Drama', 'Romance']"
+tt1183892,['Short']
+tt1184384,['Animation']
+tt11847642,"['Comedy', 'Romance']"
+tt11865966,['Comedy']
+tt11869546,"['Drama', 'Family']"
+tt1186995,['Documentary']
+tt11877948,"['Comedy', 'Fantasy', 'Romance']"
+tt1189379,['Documentary']
+tt11927670,"['Comedy', 'Family']"
+tt11929008,"['Comedy', 'Drama', 'Romance']"
+tt11947282,"['Comedy', 'Family']"
+tt1198337,"['Adventure', 'Comedy', 'Drama']"
+tt12014644,['Family']
+tt12016852,['Documentary']
+tt1205608,"['Adventure', 'Animation', 'Comedy']"
+tt12092722,['Comedy']
+tt12110636,"['Family', 'Romance']"
+tt12164390,"['Animation', 'Comedy', 'Short']"
+tt12228496,"['Comedy', 'Romance']"
+tt12246716,['Drama']
+tt12269268,['Romance']
+tt12298120,['Short']
+tt1230119,['Animation']
+tt1232802,"['Documentary', 'History']"
+tt12362248,"['Comedy', 'Drama', 'Family']"
+tt12389030,"['Comedy', 'Romance']"
+tt12409642,['Comedy']
+tt12418270,['Romance']
+tt1242748,['Drama']
+tt12457534,['Family']
+tt12457826,['Comedy']
+tt1249300,"['Comedy', 'Family']"
+tt12557978,"['Drama', 'Family']"
+tt12579258,"['Comedy', 'Romance']"
+tt1259757,['Animation']
+tt1260564,['Crime']
+tt12637024,"['Drama', 'Romance']"
+tt12670178,"['Comedy', 'Romance']"
+tt12677210,"['Action', 'Comedy']"
+tt1268799,"['Adventure', 'Comedy']"
+tt12712408,"['Comedy', 'Romance']"
+tt12717050,['Family']
+tt1274299,"['Drama', 'Family']"
+tt12763660,['Drama']
+tt12766346,"['Drama', 'Romance']"
+tt12766850,"['Comedy', 'Drama', 'Family']"
+tt12773628,"['Drama', 'Romance']"
+tt12780384,"['Comedy', 'Sci-Fi']"
+tt12792442,"['Comedy', 'Drama', 'Romance']"
+tt12803902,"['Comedy', 'Family', 'Fantasy']"
+tt12807538,"['Drama', 'Family']"
+tt12821388,"['Drama', 'Romance']"
+tt12822926,"['Comedy', 'Romance']"
+tt12824160,['Drama']
+tt12843484,"['Drama', 'Romance']"
+tt1284492,"['Documentary', 'Short']"
+tt1284493,"['Documentary', 'Short']"
+tt1284494,"['Documentary', 'Short']"
+tt1284495,"['Animation', 'Family', 'Short']"
+tt12847642,"['Music', 'Short']"
+tt1284976,"['Comedy', 'Drama', 'Romance']"
+tt1285125,['Documentary']
+tt1285239,['Drama']
+tt12885438,"['Action', 'Adventure', 'Animation']"
+tt12906940,"['Action', 'Comedy', 'Horror']"
+tt1291181,['Drama']
+tt12921552,"['Comedy', 'Drama', 'Romance']"
+tt1292569,"['Comedy', 'Family', 'Music']"
+tt12932534,['Romance']
+tt12932550,"['Drama', 'Romance']"
+tt1294693,"['Animation', 'Family', 'Fantasy']"
+tt12950902,"['Drama', 'Romance']"
+tt12953542,"['Drama', 'Romance']"
+tt12965420,['Romance']
+tt12968696,"['Comedy', 'Drama', 'Romance']"
+tt12981586,['Animation']
+tt12986254,['Romance']
+tt12987036,['Romance']
+tt12987094,['Family']
+tt12988016,"['Drama', 'Romance']"
+tt12997976,"['Comedy', 'Drama', 'Romance']"
+tt1300160,['Musical']
+tt13040330,"['Comedy', 'Romance']"
+tt13045980,['Drama']
+tt13046014,['Horror']
+tt13046056,['Horror']
+tt13055780,"['Comedy', 'Drama', 'Romance']"
+tt13070602,"['Adventure', 'Comedy', 'Drama']"
+tt13097858,"['Drama', 'Romance']"
+tt13103340,['Comedy']
+tt13103392,"['Comedy', 'Short']"
+tt13109730,"['Drama', 'Romance']"
+tt13121702,"['Drama', 'Romance']"
+tt1313243,['Drama']
+tt1314171,['Family']
+tt13142446,"['Family', 'Romance']"
+tt1314715,"['Animation', 'Family']"
+tt13147656,"['Drama', 'Romance']"
+tt13147954,"['Comedy', 'Drama', 'Romance']"
+tt13148548,"['Comedy', 'Family', 'Romance']"
+tt1315049,"['Adventure', 'Animation', 'Family']"
+tt13159820,['Drama']
+tt13169850,['Romance']
+tt13180242,['Comedy']
+tt13189624,"['Comedy', 'Drama', 'Romance']"
+tt13189798,"['Drama', 'Romance']"
+tt13190948,"['Comedy', 'Romance']"
+tt13192538,"['Comedy', 'Romance']"
+tt13194940,"['Drama', 'Romance']"
+tt13197624,"['Drama', 'Romance']"
+tt13201832,['Romance']
+tt13206476,"['Comedy', 'Drama', 'Romance']"
+tt13236566,"['Comedy', 'Family', 'Romance']"
+tt13241708,"['Family', 'Musical']"
+tt13243610,"['Drama', 'Romance']"
+tt13246926,"['Mystery', 'Romance']"
+tt13247248,"['Drama', 'Romance']"
+tt13248694,
+tt13260836,"['Adventure', 'Animation', 'Comedy']"
+tt13267034,"['Drama', 'Romance']"
+tt13273702,"['Drama', 'Romance']"
+tt13273744,"['Drama', 'Romance']"
+tt1327811,['Animation']
+tt13280552,"['Documentary', 'Music']"
+tt13286622,['Romance']
+tt13290168,"['Comedy', 'Drama', 'Musical']"
+tt13293184,['Comedy']
+tt13298482,"['Comedy', 'Romance']"
+tt1330015,"['Comedy', 'Family', 'Fantasy']"
+tt1330044,['Animation']
+tt1330184,"['Documentary', 'War']"
+tt13309552,['Romance']
+tt1332026,"['Animation', 'Comedy', 'Family']"
+tt13320784,"['Comedy', 'Romance']"
+tt13327258,"['Comedy', 'Musical']"
+tt13341368,['Romance']
+tt13341400,"['Drama', 'Family', 'Romance']"
+tt13341408,"['Drama', 'Romance']"
+tt13341414,"['Comedy', 'Fantasy', 'Romance']"
+tt13341432,"['Drama', 'Fantasy', 'Music']"
+tt13341512,
+tt13341592,"['Mystery', 'Romance']"
+tt13341848,"['Drama', 'Family', 'Romance']"
+tt13341908,"['Drama', 'Romance']"
+tt13342004,"['Drama', 'Fantasy', 'Romance']"
+tt13342118,"['Comedy', 'Drama', 'Romance']"
+tt13342180,"['Drama', 'Romance']"
+tt13342190,"['Drama', 'Romance']"
+tt13342238,"['Drama', 'Family', 'Romance']"
+tt13344860,"['Comedy', 'Drama', 'Music']"
+tt13350688,"['Comedy', 'Drama', 'Music']"
+tt13354204,"['Comedy', 'Drama']"
+tt13356044,"['Comedy', 'Drama', 'Romance']"
+tt13357258,"['Drama', 'Music', 'Romance']"
+tt13360162,['Family']
+tt1336989,['Family']
+tt13381368,"['Comedy', 'Family', 'Romance']"
+tt13389538,['Comedy']
+tt13391592,"['Drama', 'Romance']"
+tt13397452,['Musical']
+tt13400476,"['Adventure', 'Fantasy', 'Romance']"
+tt13401252,['Romance']
+tt13403210,['Romance']
+tt13403782,['Comedy']
+tt1340579,['Romance']
+tt13407590,"['Comedy', 'Drama', 'Family']"
+tt13409094,['Comedy']
+tt13411942,"['Animation', 'Family']"
+tt13428892,['Drama']
+tt1343029,"['Comedy', 'Drama', 'Family']"
+tt13437988,"['Animation', 'Family']"
+tt13438634,['Romance']
+tt13439940,"['Animation', 'Family']"
+tt13446424,"['Comedy', 'Crime', 'Thriller']"
+tt1344730,"['Animation', 'Short']"
+tt13450510,['Drama']
+tt13464336,['Comedy']
+tt13465140,"['Adventure', 'Comedy', 'Family']"
+tt1346854,"['Adventure', 'Family', 'Fantasy']"
+tt13469472,['Family']
+tt13475370,['Comedy']
+tt1348305,"['Horror', 'Thriller']"
+tt13526016,"['Comedy', 'Musical']"
+tt13528040,"['Family', 'Fantasy']"
+tt1353092,"['Animation', 'Family', 'Short']"
+tt1353789,['Drama']
+tt13556806,['Music']
+tt13557370,"['Animation', 'Comedy', 'Family']"
+tt13562844,"['Drama', 'Romance']"
+tt1356395,"['Adventure', 'Animation', 'Comedy']"
+tt13569424,['Family']
+tt13571948,['Drama']
+tt13586346,['Drama']
+tt13596276,"['Music', 'Short']"
+tt13607632,"['Comedy', 'Drama']"
+tt1361330,"['Comedy', 'Family', 'Fantasy']"
+tt13620374,['Comedy']
+tt13624384,['Romance']
+tt13632182,['Romance']
+tt13634896,['Short']
+tt13635666,['Musical']
+tt13637436,['Drama']
+tt13650704,"['Comedy', 'Romance']"
+tt13652894,"['Comedy', 'Romance']"
+tt1365471,['Comedy']
+tt13678266,['Documentary']
+tt1368452,"['Documentary', 'History', 'Music']"
+tt1369647,"['Drama', 'Romance']"
+tt13698834,['Drama']
+tt13699668,['Documentary']
+tt13701958,['Documentary']
+tt13701962,"['Comedy', 'Drama', 'Romance']"
+tt13708060,['Musical']
+tt13712094,['Documentary']
+tt13729118,['Comedy']
+tt13731632,
+tt1373383,['Animation']
+tt13734032,"['Music', 'Short']"
+tt13735720,['Comedy']
+tt13766304,"['Family', 'Short']"
+tt13779034,"['Comedy', 'Romance']"
+tt13780792,"['Animation', 'Family', 'Short']"
+tt13782052,"['Comedy', 'Romance']"
+tt13784374,"['Drama', 'Family']"
+tt1379260,['Family']
+tt13795858,"['Comedy', 'Short']"
+tt1380832,['Documentary']
+tt13808642,['Family']
+tt13814142,"['Drama', 'Mystery', 'Thriller']"
+tt13838038,['Comedy']
+tt1384926,['Drama']
+tt13878640,['Comedy']
+tt13918522,"['Drama', 'Romance']"
+tt13937754,"['Comedy', 'Drama', 'Romance']"
+tt1397220,"['Animation', 'Family', 'Fantasy']"
+tt13972332,['Drama']
+tt13993098,['Short']
+tt14016930,['Drama']
+tt14034732,['Comedy']
+tt14036172,['Family']
+tt14059632,['Romance']
+tt14060006,['Drama']
+tt14060986,"['Comedy', 'Romance']"
+tt14061008,"['Comedy', 'Drama', 'Fantasy']"
+tt14065740,['Comedy']
+tt14074562,"['Comedy', 'Family', 'Romance']"
+tt14077792,['Comedy']
+tt14084160,"['Comedy', 'Short']"
+tt1410013,"['Drama', 'Family']"
+tt1410207,"['Drama', 'Romance']"
+tt14122036,['Documentary']
+tt1414143,['Documentary']
+tt14142950,"['Comedy', 'Drama', 'Romance']"
+tt1415879,"['Family', 'Short']"
+tt14163772,"['Comedy', 'Drama', 'Family']"
+tt14187584,"['Comedy', 'Romance']"
+tt14194876,"['Comedy', 'Family', 'Fantasy']"
+tt14207306,"['Comedy', 'Romance']"
+tt14219486,['Comedy']
+tt14256092,['Romance']
+tt14298896,['Comedy']
+tt14300966,"['Comedy', 'Romance']"
+tt1430607,"['Adventure', 'Animation', 'Comedy']"
+tt14397668,['Comedy']
+tt14435184,"['Drama', 'Romance']"
+tt14444182,"['Comedy', 'Drama', 'Family']"
+tt1446093,['Drama']
+tt1446201,"['Comedy', 'Romance']"
+tt14477626,"['Animation', 'Comedy']"
+tt14482374,"['Comedy', 'Drama', 'Family']"
+tt14483394,"['Comedy', 'Romance']"
+tt14502376,['Romance']
+tt1451381,"['Adventure', 'Animation', 'Comedy']"
+tt14558558,"['Crime', 'Drama', 'Thriller']"
+tt14577152,"['Comedy', 'Drama', 'Romance']"
+tt14586176,"['Comedy', 'Romance']"
+tt14591614,"['Comedy', 'Drama', 'Family']"
+tt14596220,"['Comedy', 'Romance']"
+tt1459922,['Documentary']
+tt14609676,['Comedy']
+tt1461344,['Animation']
+tt1462801,['Comedy']
+tt14641148,['Romance']
+tt14662334,['Drama']
+tt14668196,"['Drama', 'Family', 'Fantasy']"
+tt14681620,"['Drama', 'Romance']"
+tt1468385,['Comedy']
+tt1470024,"['Drama', 'Romance']"
+tt14715170,"['Comedy', 'Romance']"
+tt14721936,"['Comedy', 'Drama', 'Romance']"
+tt14729484,"['Comedy', 'Family', 'Romance']"
+tt14758476,"['Comedy', 'Romance']"
+tt14758624,"['Drama', 'Romance']"
+tt14777678,"['Comedy', 'Drama', 'Music']"
+tt14777778,"['Comedy', 'Romance']"
+tt1478318,"['Comedy', 'Family']"
+tt14785488,"['Drama', 'Romance']"
+tt14785638,"['Comedy', 'Drama', 'Romance']"
+tt14789426,"['Comedy', 'Romance']"
+tt1479144,"['Animation', 'Comedy', 'Family']"
+tt1480186,"['Documentary', 'Short']"
+tt14807078,['Romance']
+tt14850192,['Romance']
+tt1486805,"['Animation', 'Comedy', 'Romance']"
+tt1488583,"['Family', 'Short']"
+tt1489248,"['Comedy', 'Drama', 'Family']"
+tt14909414,"['Comedy', 'Romance']"
+tt1492952,['Comedy']
+tt14932820,"['Comedy', 'Romance']"
+tt14945492,['Family']
+tt14980372,['Family']
+tt14996100,"['Comedy', 'Romance']"
+tt1499623,"['Animation', 'Short']"
+tt14999558,['Comedy']
+tt15005176,['Comedy']
+tt15010346,['Romance']
+tt15010580,['Drama']
+tt15012044,"['Comedy', 'Romance']"
+tt15026092,['Romance']
+tt15042590,"['Drama', 'Romance']"
+tt1504362,['Comedy']
+tt15047782,"['Comedy', 'Romance']"
+tt15049912,"['Comedy', 'Drama']"
+tt1508256,['Family']
+tt15088982,"['Action', 'Comedy', 'Horror']"
+tt15091462,['Romance']
+tt15111214,['Comedy']
+tt15127022,"['Drama', 'Family', 'Romance']"
+tt15128214,"['Family', 'Romance']"
+tt15133668,"['Comedy', 'Drama', 'Fantasy']"
+tt15133684,"['Comedy', 'Drama']"
+tt1516541,"['Comedy', 'Drama', 'Family']"
+tt15167640,"['Comedy', 'Drama', 'Romance']"
+tt15185022,"['Comedy', 'Romance']"
+tt15186426,"['Comedy', 'Romance']"
+tt15187842,"['Comedy', 'Romance']"
+tt1519929,"['Drama', 'Family']"
+tt15203648,"['Action', 'Comedy']"
+tt15205430,"['Drama', 'Romance']"
+tt15205728,"['Comedy', 'Romance']"
+tt15226096,"['Comedy', 'Drama', 'Family']"
+tt15233326,"['Comedy', 'Romance']"
+tt15235708,['Romance']
+tt1524572,"['Documentary', 'Short']"
+tt15245738,"['Drama', 'Romance']"
+tt15248422,['Family']
+tt15254212,"['Drama', 'Romance']"
+tt15279930,['Comedy']
+tt15289090,"['Comedy', 'Drama', 'Romance']"
+tt15294458,"['Horror', 'Mystery', 'Thriller']"
+tt15302344,"['Comedy', 'Romance']"
+tt15316422,"['Drama', 'Romance']"
+tt15348352,"['Drama', 'Romance']"
+tt15353214,['Documentary']
+tt15359506,"['Comedy', 'Drama', 'Romance']"
+tt15379406,"['Comedy', 'Drama', 'Family']"
+tt15388610,"['Comedy', 'Drama', 'Fantasy']"
+tt1539985,['Musical']
+tt15400448,['Family']
+tt15410692,"['Fantasy', 'Romance']"
+tt15412176,"['Comedy', 'Drama', 'Fantasy']"
+tt1541785,['Comedy']
+tt15420960,"['Drama', 'Romance']"
+tt1542347,['Comedy']
+tt15425920,"['Drama', 'Romance']"
+tt15446786,['Animation']
+tt15450798,['Comedy']
+tt15463198,"['Drama', 'Romance']"
+tt15484422,['Romance']
+tt15485160,"['Drama', 'Romance']"
+tt15502006,"['Drama', 'Family', 'Fantasy']"
+tt1550321,"['Animation', 'Comedy', 'Fantasy']"
+tt15508150,"['Drama', 'Romance']"
+tt15515030,"['Comedy', 'Drama', 'Romance']"
+tt15515260,"['Drama', 'Romance']"
+tt15515414,"['Drama', 'Musical', 'Romance']"
+tt15515460,"['Comedy', 'Romance']"
+tt15515522,"['Comedy', 'Drama', 'Romance']"
+tt15515750,"['Comedy', 'Romance']"
+tt15515882,"['Drama', 'Romance']"
+tt1552113,['Comedy']
+tt15524132,"['Drama', 'Mystery', 'Romance']"
+tt1552625,['Family']
+tt1552970,['Family']
+tt15544202,['Sport']
+tt15565510,"['Comedy', 'Romance']"
+tt15565704,"['Comedy', 'Drama', 'Romance']"
+tt15565724,['Comedy']
+tt15568228,"['Comedy', 'Drama', 'Romance']"
+tt15655480,['Romance']
+tt1567140,"['Family', 'Fantasy']"
+tt15691922,['Romance']
+tt1569470,['Music']
+tt1570352,['Family']
+tt15706104,"['Comedy', 'Fantasy', 'Romance']"
+tt1570964,"['Adventure', 'Animation', 'Family']"
+tt15716528,"['Comedy', 'Romance']"
+tt1572008,['Comedy']
+tt15720718,"['Adventure', 'Animation', 'Comedy']"
+tt1573475,"['Action', 'Comedy', 'Drama']"
+tt15739494,"['Drama', 'Romance']"
+tt15758364,"['Drama', 'Romance']"
+tt15758400,['Romance']
+tt15766640,['Romance']
+tt1577038,"['Comedy', 'Drama', 'Family']"
+tt15771862,"['Comedy', 'Fantasy', 'Romance']"
+tt15771958,"['Comedy', 'Romance']"
+tt15772866,['Music']
+tt15783694,"['Comedy', 'Drama', 'Romance']"
+tt15789654,['Family']
+tt1579220,"['Documentary', 'Music']"
+tt1579419,['Documentary']
+tt1579947,"['Adventure', 'Animation', 'Family']"
+tt15800166,['Drama']
+tt15800254,['Comedy']
+tt15800378,['Drama']
+tt15800610,"['Comedy', 'Fantasy']"
+tt1581275,['Documentary']
+tt15819904,['Romance']
+tt15824322,"['Comedy', 'Family', 'Romance']"
+tt15829734,"['Drama', 'Romance']"
+tt15857304,"['Animation', 'Comedy', 'Family']"
+tt15891306,"['Comedy', 'Romance']"
+tt15904522,"['Comedy', 'Family', 'Romance']"
+tt1590844,['Comedy']
+tt15943556,"['Comedy', 'Romance']"
+tt15978102,"['Drama', 'Romance']"
+tt15979222,"['Comedy', 'Romance']"
+tt1599293,"['Comedy', 'Drama', 'Family']"
+tt1601195,"['Biography', 'Romance', 'War']"
+tt16047114,"['Comedy', 'Drama', 'Romance']"
+tt16047292,"['Comedy', 'Romance']"
+tt16047670,"['Comedy', 'Drama', 'Romance']"
+tt16048864,['Thriller']
+tt16057434,['Romance']
+tt1606191,"['Comedy', 'Drama', 'Family']"
+tt1608159,['Comedy']
+tt16103310,"['Family', 'Romance']"
+tt16117078,['Drama']
+tt16119112,"['Documentary', 'Drama']"
+tt16148580,"['Comedy', 'Drama', 'Family']"
+tt16150870,"['Comedy', 'Drama', 'Romance']"
+tt16150878,['Romance']
+tt16162574,['Drama']
+tt1617154,['Comedy']
+tt16180532,"['Drama', 'Fantasy', 'Romance']"
+tt1618891,['Sport']
+tt16226832,['Drama']
+tt1623143,['Horror']
+tt16240828,"['Animation', 'Family']"
+tt1626240,"['Comedy', 'Family']"
+tt16274720,"['Comedy', 'Family', 'Fantasy']"
+tt16275882,['Romance']
+tt16280514,"['Family', 'Romance']"
+tt16282114,"['Drama', 'Romance']"
+tt16365840,"['Comedy', 'Family', 'Romance']"
+tt16376618,['Music']
+tt1640116,"['Comedy', 'Drama', 'Family']"
+tt1640714,"['Drama', 'Family']"
+tt16410192,['Romance']
+tt16421260,['Comedy']
+tt16451308,['Musical']
+tt1649752,['Family']
+tt1651084,"['Comedy', 'Crime', 'Mystery']"
+tt1651146,"['Animation', 'Drama', 'Family']"
+tt1653094,['Family']
+tt1656695,"['Comedy', 'Horror']"
+tt1663628,"['Comedy', 'Drama', 'Family']"
+tt1663950,['Documentary']
+tt1678037,"['Comedy', 'Family', 'Romance']"
+tt1681372,"['Comedy', 'Horror']"
+tt1691012,"['Comedy', 'Family']"
+tt1691022,['Animation']
+tt1692235,"['Comedy', 'Horror']"
+tt16985078,"['Crime', 'Documentary', 'Drama']"
+tt16985198,['Family']
+tt1699511,['Comedy']
+tt1699746,"['Comedy', 'Fantasy', 'Romance']"
+tt17013954,['Animation']
+tt17057126,"['Comedy', 'Drama', 'Romance']"
+tt17058290,"['Documentary', 'Music']"
+tt1708658,['Drama']
+tt1711525,['Comedy']
+tt1717155,['Family']
+tt1720276,"['Comedy', 'Family']"
+tt17220704,"['Comedy', 'Family']"
+tt1722515,"['Comedy', 'Drama']"
+tt1730762,"['Comedy', 'Drama']"
+tt1733111,"['Comedy', 'Family', 'Fantasy']"
+tt1735979,"['Comedy', 'Drama', 'Romance']"
+tt17371496,['Romance']
+tt1738298,['Comedy']
+tt17500912,['Family']
+tt17542540,"['Comedy', 'Romance']"
+tt1754658,['Family']
+tt1754946,['Comedy']
+tt1756835,"['Animation', 'Family', 'Fantasy']"
+tt1764607,"['Animation', 'Family', 'Short']"
+tt1765664,['Comedy']
+tt17663776,"['Comedy', 'Romance']"
+tt1776777,"['Documentary', 'Short']"
+tt1777533,['Comedy']
+tt1785287,['Drama']
+tt1789982,"['Comedy', 'Musical', 'Short']"
+tt1790621,"['Comedy', 'Romance']"
+tt1795004,['Crime']
+tt1798141,['Animation']
+tt1803167,['Documentary']
+tt1806954,"['Drama', 'Family']"
+tt1807047,
+tt18077672,"['Comedy', 'Romance']"
+tt1807892,"['Comedy', 'Romance']"
+tt1811319,"['Comedy', 'Drama', 'Family']"
+tt1813195,['Music']
+tt1813773,"['Comedy', 'Drama']"
+tt18178194,"['Drama', 'Romance']"
+tt18239364,"['Comedy', 'Romance']"
+tt1825712,"['Drama', 'Family', 'Fantasy']"
+tt18260368,['Family']
+tt18263854,['Comedy']
+tt18278400,"['Comedy', 'Romance']"
+tt1828976,"['Comedy', 'Drama', 'Family']"
+tt1829005,['Animation']
+tt18315972,['Romance']
+tt1834319,"['Drama', 'Romance']"
+tt18350906,"['Drama', 'Music', 'Romance']"
+tt18350946,"['Comedy', 'Romance']"
+tt18350998,"['Comedy', 'Family', 'Romance']"
+tt1835916,['Family']
+tt18361702,"['Comedy', 'Drama', 'Romance']"
+tt18396434,"['Drama', 'Romance']"
+tt1846442,"['Comedy', 'Family', 'Fantasy']"
+tt1847615,"['Comedy', 'Family']"
+tt18546988,"['Comedy', 'Drama', 'Romance']"
+tt1855134,"['Comedy', 'Fantasy']"
+tt1856053,"['Adventure', 'Animation', 'Comedy']"
+tt18687904,['Documentary']
+tt1874537,"['Animation', 'Romance']"
+tt18884832,"['Comedy', 'Drama', 'Fantasy']"
+tt18937582,['Romance']
+tt18938222,"['Comedy', 'Horror']"
+tt18949684,"['Drama', 'Musical', 'Romance']"
+tt1895321,"['Comedy', 'Drama', 'Family']"
+tt19037878,"['Comedy', 'Romance']"
+tt19083430,"['Comedy', 'Drama', 'Romance']"
+tt1918936,['Music']
+tt19264600,"['Comedy', 'Romance']"
+tt1926540,['Documentary']
+tt19394150,"['Comedy', 'Romance']"
+tt19408396,"['Comedy', 'Drama', 'Romance']"
+tt1942787,"['Comedy', 'Family', 'Romance']"
+tt1949552,['Comedy']
+tt19499500,"['Comedy', 'Drama', 'Romance']"
+tt19499664,"['Comedy', 'Fantasy', 'Romance']"
+tt19511660,"['Drama', 'Fantasy']"
+tt19514490,"['Comedy', 'Romance']"
+tt1954334,['Horror']
+tt1957867,['Comedy']
+tt19723342,"['Comedy', 'Romance']"
+tt1982735,"['Horror', 'Thriller']"
+tt1984279,"['Adventure', 'Animation', 'Comedy']"
+tt19848022,"['Animation', 'Fantasy', 'Short']"
+tt19867870,"['Drama', 'Family', 'Fantasy']"
+tt19895682,"['Comedy', 'Romance']"
+tt19898828,"['Comedy', 'Family', 'Romance']"
+tt2006707,"['Drama', 'Romance']"
+tt2008491,"['Comedy', 'Romance']"
+tt2015336,['Family']
+tt20191820,"['Drama', 'Family', 'Romance']"
+tt20193354,"['Fantasy', 'Romance']"
+tt20220954,"['Drama', 'Family', 'Romance']"
+tt2022482,"['Drama', 'Family']"
+tt2024354,"['Comedy', 'Drama', 'Family']"
+tt20258516,"['Comedy', 'Drama', 'Family']"
+tt2034761,"['Adventure', 'Family', 'Fantasy']"
+tt2039366,"['Comedy', 'Drama', 'Family']"
+tt2039389,"['Comedy', 'Drama', 'Family']"
+tt2039390,"['Comedy', 'Romance']"
+tt2041534,['Comedy']
+tt2043993,"['Comedy', 'Romance']"
+tt20445598,"['Comedy', 'Drama', 'Romance']"
+tt2048854,['Family']
+tt20561114,"['Comedy', 'Family']"
+tt2072025,"['Comedy', 'Fantasy']"
+tt2076215,['Drama']
+tt2076815,"['Adventure', 'Comedy', 'Family']"
+tt20782936,"['Comedy', 'Drama', 'Romance']"
+tt2078672,"['Drama', 'Family', 'Romance']"
+tt2079513,['Animation']
+tt2081367,"['Comedy', 'Drama', 'Family']"
+tt2083355,"['Comedy', 'Drama']"
+tt20866718,"['Drama', 'Romance']"
+tt2086905,"['Comedy', 'Drama']"
+tt20876910,"['Comedy', 'Romance']"
+tt20876930,"['Comedy', 'Romance']"
+tt20892688,"['Comedy', 'Drama', 'Romance']"
+tt2091240,"['Animation', 'Family', 'Musical']"
+tt20917338,"['Adventure', 'Animation', 'Comedy']"
+tt2094052,"['Drama', 'Family', 'Mystery']"
+tt2094146,"['Drama', 'Family']"
+tt2098799,['Family']
+tt2100546,"['Adventure', 'Animation', 'Comedy']"
+tt2104836,['Musical']
+tt21054736,"['Adventure', 'Family']"
+tt21058846,"['Comedy', 'Romance']"
+tt21063466,"['Comedy', 'Family', 'Romance']"
+tt21072238,"['Comedy', 'Romance']"
+tt2110388,"['Comedy', 'Fantasy']"
+tt2112127,"['Drama', 'Family', 'Fantasy']"
+tt21148452,"['Comedy', 'Romance']"
+tt21156616,"['Comedy', 'Drama', 'Romance']"
+tt21194586,"['Comedy', 'Drama']"
+tt2119555,"['Action', 'Comedy', 'Drama']"
+tt21220756,"['Comedy', 'Romance']"
+tt2126373,['Music']
+tt21308838,"['Comedy', 'Short']"
+tt2131447,['Musical']
+tt2131450,['Documentary']
+tt21329252,"['Comedy', 'Family', 'Romance']"
+tt21334846,"['Comedy', 'Romance']"
+tt2134036,"['Animation', 'Family']"
+tt21365830,['Horror']
+tt21365892,"['Drama', 'Musical', 'Romance']"
+tt2136823,['Documentary']
+tt2137011,"['Animation', 'Short']"
+tt21373340,"['Comedy', 'Drama', 'Romance']"
+tt21373840,['Comedy']
+tt21373908,['Romance']
+tt21374064,"['Comedy', 'Romance']"
+tt21374548,['Romance']
+tt21375082,['Romance']
+tt21390078,['Romance']
+tt2140625,
+tt21411946,['Family']
+tt21430254,['Comedy']
+tt2145851,['Comedy']
+tt2145949,"['Animation', 'Short']"
+tt2147317,"['Drama', 'Mystery', 'Short']"
+tt2148871,['Horror']
+tt2151272,['Documentary']
+tt2156911,['Animation']
+tt2156981,['Animation']
+tt21602764,"['Adventure', 'Comedy', 'Sci-Fi']"
+tt21603520,"['Drama', 'Romance']"
+tt2160401,"['Documentary', 'History']"
+tt2160409,['Documentary']
+tt21614582,['Comedy']
+tt21663620,"['Comedy', 'Drama', 'Romance']"
+tt2170474,"['Animation', 'Comedy', 'Drama']"
+tt2170758,['Music']
+tt21803326,"['Action', 'Comedy', 'Crime']"
+tt21817374,"['Adventure', 'Comedy', 'Family']"
+tt2181853,"['Drama', 'Family', 'Fantasy']"
+tt21821260,"['Drama', 'Romance']"
+tt21821322,"['Drama', 'Romance']"
+tt21821424,"['Drama', 'Romance']"
+tt21821886,"['Drama', 'Romance']"
+tt21841642,"['Comedy', 'Drama', 'Romance']"
+tt2186358,"['Comedy', 'Drama', 'Romance']"
+tt2186508,"['Drama', 'Family', 'Fantasy']"
+tt21868598,"['Comedy', 'Romance']"
+tt21871754,['Family']
+tt21906206,"['Comedy', 'Family', 'Romance']"
+tt21933082,['Musical']
+tt21935558,['Romance']
+tt21950514,"['Comedy', 'Drama', 'Romance']"
+tt21974122,"['Comedy', 'Drama', 'Romance']"
+tt21974146,"['Comedy', 'Drama', 'Romance']"
+tt2197825,['Family']
+tt21981864,['Romance']
+tt21994906,"['Comedy', 'Romance']"
+tt22005252,['Comedy']
+tt2201034,['Drama']
+tt2202798,"['Action', 'Adventure', 'Drama']"
+tt22028080,"['Comedy', 'Drama', 'Family']"
+tt22037802,"['Adventure', 'Comedy', 'Family']"
+tt2204112,"['Family', 'Music']"
+tt22042742,['Horror']
+tt22050856,"['Comedy', 'Drama', 'Family']"
+tt22072268,"['Comedy', 'Family', 'Romance']"
+tt22166882,"['Comedy', 'Drama', 'Romance']"
+tt22167232,"['Drama', 'Romance']"
+tt22168286,['Comedy']
+tt22176928,"['Comedy', 'Crime']"
+tt22192262,"['Comedy', 'Drama', 'Mystery']"
+tt22196454,"['Comedy', 'Drama', 'Family']"
+tt22207152,"['Comedy', 'Drama', 'Family']"
+tt22207828,"['Comedy', 'Romance']"
+tt2224111,['Drama']
+tt22245568,"['Comedy', 'Drama', 'Romance']"
+tt22245614,"['Comedy', 'Drama']"
+tt22246514,"['Comedy', 'Family', 'Romance']"
+tt22246560,"['Comedy', 'Romance']"
+tt22247502,"['Comedy', 'Romance']"
+tt22247540,"['Comedy', 'Drama']"
+tt22247650,"['Comedy', 'Drama', 'Romance']"
+tt22258178,"['Comedy', 'Drama', 'Romance']"
+tt22258198,"['Comedy', 'Drama', 'Romance']"
+tt22261236,"['Comedy', 'Crime', 'Mystery']"
+tt22262600,"['Comedy', 'Drama', 'Romance']"
+tt2228450,"['Drama', 'Family']"
+tt22295836,"['Comedy', 'Drama', 'Romance']"
+tt22295902,"['Comedy', 'Family', 'Romance']"
+tt22296044,"['Comedy', 'Romance']"
+tt22302170,"['Comedy', 'Drama', 'Romance']"
+tt22307204,"['Comedy', 'Drama', 'Family']"
+tt22307338,"['Comedy', 'Drama', 'Family']"
+tt22307422,"['Comedy', 'Drama', 'Family']"
+tt22307560,"['Comedy', 'Drama', 'Family']"
+tt22308008,"['Comedy', 'Drama', 'Family']"
+tt22309256,['Comedy']
+tt2232446,"['Comedy', 'Drama', 'Family']"
+tt22325454,['Comedy']
+tt22440192,"['Comedy', 'Family']"
+tt22462866,"['Family', 'Romance']"
+tt22495080,['Comedy']
+tt22499672,"['Comedy', 'Romance']"
+tt22499790,"['Comedy', 'Romance']"
+tt22499914,"['Comedy', 'Drama', 'Romance']"
+tt22500038,"['Comedy', 'Drama', 'Romance']"
+tt22500220,"['Comedy', 'Drama', 'Romance']"
+tt22505680,"['Comedy', 'Drama', 'Romance']"
+tt22505724,['Romance']
+tt22527810,['Comedy']
+tt2256703,"['Drama', 'Romance']"
+tt2263430,"['Drama', 'Family']"
+tt2264450,
+tt22688146,"['Comedy', 'Drama', 'Family']"
+tt22695882,"['Family', 'Romance']"
+tt2273141,"['Comedy', 'Family', 'Mystery']"
+tt2273641,['Family']
+tt22740828,"['Comedy', 'Drama', 'Romance']"
+tt22751010,['Family']
+tt2278803,['Comedy']
+tt2281069,"['Comedy', 'Family']"
+tt22814692,"['Comedy', 'Drama', 'Music']"
+tt2289406,"['Family', 'Romance']"
+tt2294459,"['Drama', 'Fantasy']"
+tt2294853,"['Comedy', 'Family']"
+tt2297706,"['Animation', 'Comedy', 'Family']"
+tt2299368,"['Comedy', 'Family', 'Fantasy']"
+tt23029064,"['Mystery', 'Romance']"
+tt2304098,"['Adventure', 'Comedy', 'Fantasy']"
+tt2306587,"['Animation', 'Drama', 'Family']"
+tt2308733,"['Comedy', 'Crime', 'Family']"
+tt23099300,"['Comedy', 'Romance']"
+tt23101288,['Comedy']
+tt2315500,"['Comedy', 'Family', 'Romance']"
+tt2316383,['Family']
+tt2316852,['Family']
+tt23204056,['Drama']
+tt2325491,"['Adventure', 'Comedy', 'Family']"
+tt2325993,"['Action', 'Adventure', 'Drama']"
+tt2327655,"['Comedy', 'Documentary', 'Family']"
+tt2328727,['Family']
+tt2329032,"['Comedy', 'Family', 'Romance']"
+tt2331880,['Drama']
+tt23328642,['Comedy']
+tt2333408,"['Drama', 'Family']"
+tt2334090,"['Comedy', 'Romance']"
+tt23391948,['Romance']
+tt23546646,"['Adventure', 'Animation', 'Comedy']"
+tt23556786,"['Comedy', 'Romance']"
+tt2355762,"['Drama', 'Family', 'Romance']"
+tt2361175,"['Documentary', 'Music']"
+tt2361407,"['Family', 'Short']"
+tt23638608,['Comedy']
+tt2374486,"['Drama', 'Family', 'Fantasy']"
+tt23746764,['Thriller']
+tt2374725,
+tt23752770,"['Comedy', 'Drama', 'Fantasy']"
+tt2376246,"['Drama', 'Family', 'Music']"
+tt2376272,"['Family', 'Romance']"
+tt23790418,"['Comedy', 'Romance']"
+tt2380249,['Comedy']
+tt23804214,['Romance']
+tt23808016,"['Comedy', 'Fantasy']"
+tt2382246,"['Comedy', 'Drama']"
+tt2383446,"['Animation', 'Family']"
+tt23838598,['Comedy']
+tt23854182,"['Drama', 'Romance']"
+tt23860542,"['Comedy', 'Drama']"
+tt23873758,['Romance']
+tt23901106,['Comedy']
+tt2391116,"['Comedy', 'Romance']"
+tt2393697,['Animation']
+tt2395123,['Family']
+tt2403841,"['Biography', 'Documentary', 'Sport']"
+tt2404361,"['Documentary', 'Short']"
+tt2406468,['Family']
+tt2406724,
+tt2415112,"['Comedy', 'Romance']"
+tt2415468,['Drama']
+tt24174938,"['Family', 'Short']"
+tt2421026,['Family']
+tt2424602,['Family']
+tt2431074,"['Fantasy', 'Horror', 'Mystery']"
+tt2439334,['Comedy']
+tt2444354,"['Comedy', 'Romance']"
+tt2445310,"['Adventure', 'Animation', 'Comedy']"
+tt24485308,['Animation']
+tt2450412,['Horror']
+tt24511122,['Animation']
+tt24513670,['Animation']
+tt2460976,"['Comedy', 'Drama', 'Romance']"
+tt2475914,"['Comedy', 'Drama', 'Musical']"
+tt24802624,"['Adventure', 'Romance']"
+tt24802780,"['Comedy', 'Drama', 'Thriller']"
+tt24816758,"['Comedy', 'Short']"
+tt24822574,"['Fantasy', 'Romance']"
+tt24824554,['Musical']
+tt24860266,['Comedy']
+tt2486490,"['Action', 'Comedy']"
+tt2505818,"['Family', 'Music', 'Romance']"
+tt2507266,"['Family', 'Short']"
+tt25147828,['Comedy']
+tt25236516,['Family']
+tt25389472,['Music']
+tt25396634,['Comedy']
+tt2550838,['Comedy']
+tt2556308,"['Action', 'Crime', 'Thriller']"
+tt2556836,['Documentary']
+tt2562146,['Horror']
+tt2566858,"['Comedy', 'Drama', 'Romance']"
+tt2571966,"['Drama', 'Family']"
+tt2573268,['Music']
+tt2577832,['Comedy']
+tt2578608,"['Action', 'Horror', 'Thriller']"
+tt2579624,"['Comedy', 'Drama', 'Sci-Fi']"
+tt2585850,"['Animation', 'Comedy', 'Family']"
+tt2609758,"['Comedy', 'Drama', 'Romance']"
+tt26146816,['Horror']
+tt2622952,"['Animation', 'Musical']"
+tt26270650,['Music']
+tt2627630,['Animation']
+tt26424281,['Comedy']
+tt26454916,['Comedy']
+tt26541686,['Romance']
+tt26583900,"['Comedy', 'Romance']"
+tt2665200,"['Comedy', 'Family', 'Romance']"
+tt26658567,['Drama']
+tt26729484,['Horror']
+tt26733514,
+tt26760944,['Romance']
+tt26925662,['Comedy']
+tt26935480,['Drama']
+tt27002895,['Horror']
+tt27195023,['Romance']
+tt27212784,['Romance']
+tt27229633,
+tt27243348,['Short']
+tt2725962,"['Comedy', 'Drama']"
+tt27373349,['Romance']
+tt27379141,['Romance']
+tt2739338,"['Drama', 'Family']"
+tt27411794,"['Drama', 'Music', 'Romance']"
+tt27446495,['Comedy']
+tt27491217,"['Comedy', 'Drama', 'Romance']"
+tt27496114,"['Comedy', 'Drama', 'Fantasy']"
+tt27542956,"['Drama', 'Family', 'Romance']"
+tt27550984,['Drama']
+tt27557250,"['Comedy', 'Fantasy', 'Romance']"
+tt27558065,"['Comedy', 'Romance']"
+tt27563124,"['Comedy', 'Drama', 'Romance']"
+tt27649527,"['Comedy', 'Romance']"
+tt27664086,['Romance']
+tt27695431,['Romance']
+tt27698813,"['Comedy', 'Drama', 'Romance']"
+tt27716649,
+tt27728524,['Romance']
+tt27728751,['Romance']
+tt27730016,['Romance']
+tt27773299,['Romance']
+tt27774522,['Romance']
+tt27804299,"['Comedy', 'Romance']"
+tt27813285,['Romance']
+tt27816891,['Documentary']
+tt27836891,"['Animation', 'Family']"
+tt27911907,['Romance']
+tt27915407,"['Comedy', 'Romance']"
+tt27955385,['Romance']
+tt27975905,"['Drama', 'Romance']"
+tt28015185,['Romance']
+tt28077855,['Romance']
+tt28083244,['Romance']
+tt28146236,['Comedy']
+tt28152535,
+tt28152545,['Romance']
+tt28155419,['Romance']
+tt2815664,['Documentary']
+tt28188089,
+tt2821426,['Documentary']
+tt28237077,"['Comedy', 'Drama', 'Romance']"
+tt28256240,"['Family', 'Romance']"
+tt28287106,['Family']
+tt28328849,"['Drama', 'Family']"
+tt2833106,"['Animation', 'Family', 'Short']"
+tt2833108,"['Animation', 'Family', 'Short']"
+tt28364747,['Comedy']
+tt28367701,['Comedy']
+tt28374407,"['Comedy', 'Drama', 'Romance']"
+tt2838678,"['Comedy', 'Family', 'Romance']"
+tt28406621,['Family']
+tt28421048,['Romance']
+tt28428635,['Comedy']
+tt2844004,"['Documentary', 'History']"
+tt28449295,['Romance']
+tt28502782,['Romance']
+tt28503022,['Thriller']
+tt28504093,['Family']
+tt28505029,['Romance']
+tt28506794,"['Comedy', 'Drama']"
+tt28546386,['Romance']
+tt28546882,['Fantasy']
+tt2857720,"['Comedy', 'Drama', 'Family']"
+tt28651158,['Romance']
+tt28664948,"['Comedy', 'Drama']"
+tt28668784,['Romance']
+tt28669205,['Romance']
+tt28711128,['Romance']
+tt28753331,['Romance']
+tt28797022,"['Drama', 'Horror']"
+tt29007820,['Romance']
+tt29033964,"['Adventure', 'Animation', 'Comedy']"
+tt2907922,"['Drama', 'Family']"
+tt29144851,['Romance']
+tt29231347,"['Comedy', 'Drama', 'Family']"
+tt29233347,['Romance']
+tt29233518,"['Comedy', 'Drama', 'Romance']"
+tt29233535,"['Drama', 'Romance']"
+tt29258080,"['Comedy', 'Drama', 'Romance']"
+tt29270965,"['Drama', 'Family', 'Romance']"
+tt2928084,"['Crime', 'Drama', 'Mystery']"
+tt29312035,['Romance']
+tt29353026,['Romance']
+tt29378386,['Romance']
+tt29379064,"['Comedy', 'Drama', 'Family']"
+tt29381734,['Romance']
+tt29392874,"['Comedy', 'Drama', 'Romance']"
+tt29426286,['Romance']
+tt2946610,"['Comedy', 'Drama', 'Horror']"
+tt29483952,['Family']
+tt29484424,['Drama']
+tt29499132,"['Comedy', 'Drama', 'Romance']"
+tt29499210,['Romance']
+tt29513309,"['Comedy', 'Drama', 'Romance']"
+tt29513328,"['Drama', 'Romance']"
+tt29520836,['Romance']
+tt29521467,['Romance']
+tt29536228,['Comedy']
+tt2955096,"['Comedy', 'Drama']"
+tt29551083,['Music']
+tt29552165,['Comedy']
+tt29593677,['Romance']
+tt29593706,['Romance']
+tt29623945,['Romance']
+tt29624046,['Romance']
+tt29624253,['Romance']
+tt29628639,['Mystery']
+tt2964654,"['Drama', 'Romance']"
+tt2966312,"['Crime', 'Drama', 'Thriller']"
+tt29684873,['Romance']
+tt29721553,['Family']
+tt2979338,"['Adventure', 'Comedy', 'Drama']"
+tt29896146,['Romance']
+tt2990140,"['Adventure', 'Comedy', 'Family']"
+tt29904237,['Romance']
+tt2993674,"['Drama', 'Romance']"
+tt29961072,['Comedy']
+tt3003470,"['Drama', 'Family']"
+tt3004544,"['Comedy', 'Drama', 'Family']"
+tt3004720,['Family']
+tt30056935,['Comedy']
+tt3012526,['Comedy']
+tt3015110,"['Comedy', 'Drama', 'Family']"
+tt3019796,"['Comedy', 'Family']"
+tt30211579,"['Comedy', 'Short', 'War']"
+tt30223562,"['Adventure', 'Comedy', 'Romance']"
+tt30241843,['Music']
+tt3025744,"['Drama', 'Romance']"
+tt3042886,"['Comedy', 'Drama', 'Family']"
+tt3043594,"['Adventure', 'Comedy', 'Family']"
+tt3059826,"['Animation', 'Short']"
+tt3068466,"['Drama', 'Family', 'Romance']"
+tt3072182,"['Drama', 'Romance']"
+tt3074118,"['Drama', 'Family', 'Fantasy']"
+tt3076718,"['Drama', 'Family', 'Musical']"
+tt3101386,"['Comedy', 'Drama', 'Romance']"
+tt3118746,"['Comedy', 'Drama', 'Family']"
+tt3120508,"['Action', 'Comedy', 'Family']"
+tt3131532,"['Comedy', 'Drama', 'Family']"
+tt3138040,"['Animation', 'Comedy', 'Family']"
+tt3162180,['Drama']
+tt3169000,"['Drama', 'Romance']"
+tt3188768,['Drama']
+tt3207076,"['Animation', 'Comedy', 'Family']"
+tt3210376,"['Comedy', 'Drama', 'Romance']"
+tt3210602,"['Comedy', 'Family']"
+tt3226430,['Comedy']
+tt3238996,['Comedy']
+tt3255590,"['Comedy', 'Crime', 'Western']"
+tt3256812,"['Comedy', 'Drama', 'Family']"
+tt3268828,"['Comedy', 'Family', 'Music']"
+tt3270636,['Comedy']
+tt3274632,"['Comedy', 'Romance']"
+tt3284682,
+tt3284712,['Short']
+tt3289944,['Romance']
+tt3294206,['Family']
+tt3294662,"['Animation', 'Family']"
+tt3302348,"['Drama', 'Family']"
+tt3307848,['Family']
+tt3310268,"['Horror', 'Short']"
+tt3326892,['Adventure']
+tt3327140,['Drama']
+tt3328510,"['Adventure', 'Animation', 'Comedy']"
+tt3338444,['Musical']
+tt3341268,"['Drama', 'Family', 'Mystery']"
+tt3361702,"['Comedy', 'Family']"
+tt3395648,['Drama']
+tt3396114,"['Comedy', 'Drama', 'Family']"
+tt3402248,['Animation']
+tt3407630,['Horror']
+tt3409640,['Horror']
+tt3411318,['Documentary']
+tt3413374,"['Comedy', 'Short']"
+tt3428972,['Horror']
+tt3437500,"['Comedy', 'Mystery', 'Thriller']"
+tt3438088,['Documentary']
+tt3449158,"['Animation', 'Short']"
+tt3453106,['Comedy']
+tt3458194,"['Comedy', 'Romance']"
+tt3482032,['Comedy']
+tt3493870,['Drama']
+tt3503454,"['Comedy', 'Family']"
+tt3509662,['Drama']
+tt3545504,"['Adventure', 'Family', 'Fantasy']"
+tt3562266,['Comedy']
+tt3579250,"['Drama', 'Romance']"
+tt3579698,"['Comedy', 'Drama', 'Family']"
+tt3596436,"['Comedy', 'Romance']"
+tt3617078,['Animation']
+tt3626180,"['Drama', 'Family', 'Romance']"
+tt3683386,"['Drama', 'Family']"
+tt3688406,"['Fantasy', 'Horror', 'Mystery']"
+tt3703148,['Comedy']
+tt3725224,"['Comedy', 'Drama', 'Family']"
+tt3783740,"['Comedy', 'Drama', 'Family']"
+tt3786326,"['Family', 'Fantasy']"
+tt3801438,"['Action', 'Adventure', 'Comedy']"
+tt3812404,['Animation']
+tt3875310,"['Adventure', 'Family']"
+tt3889642,"['Comedy', 'Drama', 'Family']"
+tt3894188,"['Drama', 'Romance']"
+tt3902554,"['Animation', 'Comedy', 'Romance']"
+tt3915160,"['Drama', 'Fantasy', 'Romance']"
+tt3917316,['Romance']
+tt3918686,"['Adventure', 'Drama', 'Fantasy']"
+tt3922320,['Drama']
+tt3952328,"['Animation', 'Family']"
+tt3961102,['Drama']
+tt3970280,['Family']
+tt3991066,"['Comedy', 'Drama', 'Family']"
+tt3993802,"['Action', 'Adventure', 'Drama']"
+tt4001526,['Animation']
+tt4009460,"['Comedy', 'Family']"
+tt4012254,"['Comedy', 'Romance']"
+tt4049534,['Animation']
+tt4055734,['Animation']
+tt4057146,"['Comedy', 'Family']"
+tt4065316,"['Comedy', 'Drama', 'Romance']"
+tt4065324,"['Comedy', 'Drama', 'Family']"
+tt4065336,"['Drama', 'Mystery', 'Romance']"
+tt4067684,"['Comedy', 'Drama', 'Family']"
+tt4076824,['Family']
+tt4084042,['Comedy']
+tt4105700,"['Comedy', 'Romance']"
+tt4159212,"['Comedy', 'Drama', 'Romance']"
+tt4177742,"['Comedy', 'Drama', 'Family']"
+tt4179824,"['Drama', 'Mystery', 'Romance']"
+tt4180032,"['Comedy', 'Drama', 'Romance']"
+tt4194954,"['Adventure', 'Comedy', 'Family']"
+tt4200996,['Family']
+tt4222522,"['Drama', 'Romance']"
+tt4227386,"['Comedy', 'Family', 'Fantasy']"
+tt4228832,['Comedy']
+tt4248606,"['Drama', 'Family']"
+tt4250046,['Documentary']
+tt4264544,['Comedy']
+tt4270254,['Horror']
+tt4276834,"['Comedy', 'Drama', 'Family']"
+tt4280430,"['Comedy', 'Romance']"
+tt4305318,['Family']
+tt4321264,"['Drama', 'Family']"
+tt4361382,"['Comedy', 'Short']"
+tt4387314,['Fantasy']
+tt4419364,"['Fantasy', 'Horror', 'Mystery']"
+tt4434688,"['Drama', 'Mystery', 'Romance']"
+tt4453560,['Family']
+tt4464242,['Music']
+tt4515428,"['Documentary', 'Short']"
+tt4558194,"['Comedy', 'Family']"
+tt4576660,['Animation']
+tt4587740,"['Comedy', 'Music', 'Romance']"
+tt4591840,['Family']
+tt4648986,"['Comedy', 'Drama', 'Romance']"
+tt4649416,"['Comedy', 'Drama', 'Romance']"
+tt4675324,"['Drama', 'Family']"
+tt4677298,"['Adventure', 'Comedy', 'Family']"
+tt4690134,"['Comedy', 'Family']"
+tt4700190,"['Drama', 'Family']"
+tt4760804,['Animation']
+tt4764944,['Comedy']
+tt4766018,"['Drama', 'Family', 'Fantasy']"
+tt4767950,"['Comedy', 'Romance']"
+tt4776578,"['Drama', 'Family', 'Fantasy']"
+tt4843046,"['Drama', 'Family', 'Fantasy']"
+tt4858404,"['Drama', 'Mystery', 'Thriller']"
+tt4885784,"['Comedy', 'Romance']"
+tt4906164,"['Action', 'Comedy', 'Horror']"
+tt4919762,['Comedy']
+tt4919764,['Comedy']
+tt4921846,['Drama']
+tt4923846,"['Drama', 'Family', 'Romance']"
+tt4923886,['Family']
+tt4942404,['Horror']
+tt4943236,"['Comedy', 'Romance']"
+tt4943842,"['Animation', 'Family']"
+tt4945886,"['Documentary', 'Music']"
+tt4982260,['Comedy']
+tt4994884,"['Animation', 'Comedy', 'Sci-Fi']"
+tt5014528,"['Comedy', 'Romance']"
+tt5031014,"['Comedy', 'Drama', 'Romance']"
+tt5033114,"['Comedy', 'Drama', 'Romance']"
+tt5040646,['Sci-Fi']
+tt5062804,"['Drama', 'Mystery']"
+tt5073652,"['Comedy', 'Romance']"
+tt5086384,['Romance']
+tt5097970,"['Comedy', 'Romance']"
+tt5120400,"['Horror', 'Thriller']"
+tt5123344,['Horror']
+tt5123866,"['Family', 'Mystery', 'Sport']"
+tt5130174,"['Comedy', 'Romance']"
+tt5133572,"['Comedy', 'Drama', 'Family']"
+tt5133810,"['Family', 'Romance']"
+tt5156770,"['Drama', 'Romance']"
+tt5170710,['Family']
+tt5178596,"['Comedy', 'Family']"
+tt5179022,['Family']
+tt5182120,"['Comedy', 'Drama', 'Family']"
+tt5186076,['Musical']
+tt5190038,['Musical']
+tt5192136,"['Animation', 'Family']"
+tt5194920,['Comedy']
+tt5196576,['Family']
+tt5204384,"['Comedy', 'Drama', 'Romance']"
+tt5210078,"['Comedy', 'Romance']"
+tt5225868,['Family']
+tt5226350,['Short']
+tt5231402,"['Comedy', 'Romance']"
+tt5232538,['Musical']
+tt5235574,"['Drama', 'Family', 'Musical']"
+tt5237552,"['Comedy', 'Drama', 'Family']"
+tt5239710,"['Drama', 'Family', 'Romance']"
+tt5247382,"['Animation', 'Short']"
+tt5252134,['Comedy']
+tt5265662,"['Comedy', 'Drama', 'Family']"
+tt5266444,"['Family', 'Fantasy', 'Romance']"
+tt5269490,"['Animation', 'Family']"
+tt5269968,"['Drama', 'Fantasy', 'Romance']"
+tt5271120,"['Comedy', 'Family']"
+tt5273610,"['Comedy', 'Short']"
+tt5283212,['Family']
+tt5295412,"['Comedy', 'Horror', 'Sci-Fi']"
+tt5296498,['Documentary']
+tt5299374,"['Short', 'Talk-Show']"
+tt5310622,"['Family', 'Musical', 'News']"
+tt5312066,['History']
+tt5314484,['Family']
+tt5334126,"['Adventure', 'Animation', 'Family']"
+tt5343450,"['Animation', 'Family', 'Fantasy']"
+tt5377204,['Drama']
+tt5485456,"['Family', 'Romance']"
+tt5514880,['Short']
+tt5514902,['Short']
+tt5515624,"['Documentary', 'Short']"
+tt5515852,"['Documentary', 'Short']"
+tt5515926,"['Documentary', 'Short']"
+tt5531536,"['Adventure', 'Comedy', 'Family']"
+tt5565200,"['Comedy', 'Thriller']"
+tt5574012,"['Comedy', 'Drama', 'Romance']"
+tt5599940,['Family']
+tt5637212,['Thriller']
+tt5675936,"['Drama', 'Romance']"
+tt5676118,"['Drama', 'Family', 'Fantasy']"
+tt5713426,"['Drama', 'Family']"
+tt5732522,['Comedy']
+tt5757556,"['Drama', 'Family', 'Fantasy']"
+tt5801302,['Family']
+tt5813808,"['Action', 'Crime', 'Drama']"
+tt5822856,"['Adventure', 'Family']"
+tt5845712,"['Comedy', 'Drama', 'Romance']"
+tt5853124,['Family']
+tt5860940,"['Drama', 'Family', 'Romance']"
+tt5863634,"['Comedy', 'Family', 'Romance']"
+tt5876496,['Comedy']
+tt5882474,"['Animation', 'Horror', 'Short']"
+tt5902138,"['Comedy', 'Romance']"
+tt5918710,"['Comedy', 'Family']"
+tt5944496,"['Drama', 'Romance']"
+tt5949946,"['Comedy', 'Romance']"
+tt5952626,['Family']
+tt5981802,"['Comedy', 'Romance']"
+tt5990458,"['Comedy', 'Fantasy']"
+tt5997848,"['Comedy', 'Drama', 'Romance']"
+tt6014166,['Family']
+tt6047156,['Music']
+tt6066786,['Animation']
+tt6077606,"['Animation', 'Comedy', 'Short']"
+tt6077642,"['Animation', 'Comedy', 'Short']"
+tt6077682,"['Animation', 'Comedy', 'Short']"
+tt6095976,"['Comedy', 'Drama', 'Family']"
+tt6098946,['Music']
+tt6102230,"['Animation', 'Short']"
+tt6104760,"['Comedy', 'Romance']"
+tt6111830,"['Comedy', 'Drama', 'Romance']"
+tt6119048,['Family']
+tt6131148,"['Drama', 'Romance']"
+tt6132948,"['Adventure', 'Drama', 'Family']"
+tt6137160,"['Comedy', 'Family', 'Fantasy']"
+tt6144460,"['Comedy', 'Family']"
+tt6167116,"['Comedy', 'Drama', 'Family']"
+tt6172696,['Horror']
+tt6185074,"['Comedy', 'Romance']"
+tt6201840,"['Comedy', 'Short']"
+tt6215212,"['Comedy', 'Romance']"
+tt6217490,"['Comedy', 'Drama', 'Romance']"
+tt6225520,"['Biography', 'Comedy', 'Drama']"
+tt6228890,"['Action', 'Comedy', 'Crime']"
+tt6243612,"['Comedy', 'Fantasy']"
+tt6245488,"['Drama', 'Romance']"
+tt6253814,"['Drama', 'Musical']"
+tt6260218,"['Drama', 'Music', 'Romance']"
+tt6263260,"['Drama', 'Fantasy', 'Romance']"
+tt6268168,"['Comedy', 'Short']"
+tt6268170,"['Comedy', 'Documentary', 'Short']"
+tt6269192,"['Drama', 'Family', 'Fantasy']"
+tt6269700,['Romance']
+tt6273004,['Romance']
+tt6275674,"['Comedy', 'Drama', 'Romance']"
+tt6278764,['Documentary']
+tt6279602,"['Comedy', 'Drama', 'Family']"
+tt6279922,['Animation']
+tt6280318,"['Animation', 'Comedy', 'Family']"
+tt6284950,"['Drama', 'Romance']"
+tt6285546,"['Animation', 'Family']"
+tt6287174,"['Adventure', 'Animation', 'Family']"
+tt6288876,"['Comedy', 'Drama', 'Romance']"
+tt6299366,"['Comedy', 'Drama', 'Family']"
+tt6301506,['Family']
+tt6301524,['Family']
+tt6306564,['Family']
+tt6319942,"['Comedy', 'Drama', 'Family']"
+tt6321108,"['Drama', 'Romance']"
+tt6339052,['Comedy']
+tt6359956,['Comedy']
+tt6397364,['Drama']
+tt6398464,"['Drama', 'Romance']"
+tt6406650,"['History', 'Short', 'War']"
+tt6411322,['Musical']
+tt6420742,"['Comedy', 'Musical']"
+tt6425626,"['Documentary', 'Short']"
+tt6425628,"['Documentary', 'Short']"
+tt6436270,['Comedy']
+tt6456768,['Horror']
+tt6478538,"['Comedy', 'Mystery', 'Romance']"
+tt6540706,['Romance']
+tt6540724,"['Comedy', 'Romance']"
+tt6569946,['Comedy']
+tt6594244,['Family']
+tt6605352,"['Comedy', 'Romance']"
+tt6615240,"['Comedy', 'Drama', 'Romance']"
+tt6634632,"['Drama', 'Family', 'Romance']"
+tt6645614,"['Adventure', 'Animation', 'Comedy']"
+tt6646106,['Family']
+tt6649794,"['Comedy', 'Drama']"
+tt6658510,"['Comedy', 'Drama', 'Family']"
+tt6661438,"['Comedy', 'Short']"
+tt6672584,['Family']
+tt6678950,"['Animation', 'Comedy', 'Family']"
+tt6709502,"['Drama', 'Romance']"
+tt6710606,"['Family', 'Fantasy']"
+tt6727816,"['Comedy', 'Family', 'Fantasy']"
+tt6759380,"['Drama', 'Romance']"
+tt6791000,"['Comedy', 'Family', 'Romance']"
+tt6799142,"['Family', 'Short']"
+tt6803170,['Family']
+tt6839448,"['Drama', 'Family']"
+tt6853830,"['Adventure', 'Drama', 'Mystery']"
+tt6877088,"['Drama', 'History', 'Music']"
+tt6881890,['Musical']
+tt6899068,"['Drama', 'Family', 'Fantasy']"
+tt6958760,"['Drama', 'Romance']"
+tt6974328,['Music']
+tt6979738,"['Animation', 'Comedy', 'Family']"
+tt6998650,"['Comedy', 'Horror']"
+tt7001906,"['Comedy', 'Drama', 'Romance']"
+tt7006938,"['Comedy', 'Drama', 'Family']"
+tt7014694,"['Comedy', 'Mystery']"
+tt7029820,['Horror']
+tt7030416,['Romance']
+tt7030432,"['Comedy', 'Drama', 'Romance']"
+tt7038606,"['Drama', 'Romance']"
+tt7038614,"['Drama', 'Romance']"
+tt7038632,['Romance']
+tt7038762,"['Comedy', 'Romance']"
+tt7059706,"['Adventure', 'Animation', 'Family']"
+tt7074092,['Romance']
+tt7123974,"['Drama', 'Romance']"
+tt7130292,['Family']
+tt7207076,['Drama']
+tt7217132,"['Music', 'Short']"
+tt7243468,['Comedy']
+tt7254064,['Documentary']
+tt7254090,['Family']
+tt7281126,"['Comedy', 'Romance']"
+tt7281472,"['Comedy', 'Family', 'Romance']"
+tt7286474,"['Comedy', 'Drama']"
+tt7293972,"['Comedy', 'Short']"
+tt7328154,"['Crime', 'Drama']"
+tt7332118,"['Adventure', 'Animation', 'Comedy']"
+tt7332456,['Family']
+tt7366340,['Comedy']
+tt7370936,"['Drama', 'Romance']"
+tt7396738,"['Comedy', 'Drama', 'Family']"
+tt7399040,['Drama']
+tt7404820,"['Comedy', 'Drama', 'Family']"
+tt7421814,"['Comedy', 'Drama', 'Romance']"
+tt7422638,"['Adventure', 'Animation', 'Comedy']"
+tt7435168,"['Comedy', 'Family']"
+tt7440948,"['Drama', 'Family', 'Fantasy']"
+tt7476494,['Animation']
+tt7481324,
+tt7488536,['Animation']
+tt7534150,['Comedy']
+tt7549006,"['Drama', 'Family']"
+tt7550866,['Comedy']
+tt7557728,"['Comedy', 'Drama', 'Romance']"
+tt7569640,['Comedy']
+tt7588798,"['Drama', 'Family', 'Romance']"
+tt7605066,"['Comedy', 'Drama', 'Romance']"
+tt7605144,"['Drama', 'Romance']"
+tt7608418,"['Comedy', 'Family', 'Romance']"
+tt7608534,"['Comedy', 'Drama', 'Romance']"
+tt7616668,"['Family', 'Romance']"
+tt7620598,['Horror']
+tt7621886,"['Drama', 'Romance']"
+tt7630836,"['Comedy', 'Drama', 'Family']"
+tt7642542,"['Drama', 'Fantasy', 'Romance']"
+tt7642558,"['Comedy', 'Drama', 'Family']"
+tt7643644,['Romance']
+tt7647000,"['Comedy', 'Drama', 'Romance']"
+tt7650288,['Music']
+tt7656706,['Drama']
+tt7657462,"['Drama', 'Romance']"
+tt7658836,['Comedy']
+tt7677130,"['Documentary', 'Family']"
+tt7683858,"['Animation', 'Family']"
+tt7685176,['Comedy']
+tt7688990,"['Comedy', 'Drama', 'Romance']"
+tt7690328,"['Comedy', 'Family']"
+tt7692814,"['Comedy', 'Drama', 'Family']"
+tt7696976,"['Drama', 'Family', 'Romance']"
+tt7697712,"['Drama', 'Romance']"
+tt7700572,"['Music', 'Short']"
+tt7704762,"['Comedy', 'Drama', 'Fantasy']"
+tt7708960,"['Adventure', 'Fantasy', 'Horror']"
+tt7713204,"['Adventure', 'Animation', 'Comedy']"
+tt7714136,"['Drama', 'Family', 'Romance']"
+tt7714138,"['Drama', 'Romance']"
+tt7717806,"['Animation', 'Short']"
+tt7724646,"['Comedy', 'Short']"
+tt7729940,['Family']
+tt7736496,"['Family', 'Fantasy', 'Musical']"
+tt7736656,"['Comedy', 'Drama']"
+tt7743592,"['Animation', 'Family', 'Music']"
+tt7766092,['Comedy']
+tt7771558,"['Comedy', 'Drama']"
+tt7771978,['Comedy']
+tt7772362,"['Family', 'Music']"
+tt7775578,['Talk-Show']
+tt7776712,"['Drama', 'Family']"
+tt7777212,['Documentary']
+tt7784186,"['Animation', 'Short']"
+tt7784794,"['Animation', 'Short']"
+tt7785870,['Animation']
+tt7790040,['Horror']
+tt7820614,['Fantasy']
+tt7831530,"['Drama', 'History', 'War']"
+tt7833914,['Drama']
+tt7841536,"['Horror', 'Mystery']"
+tt7872704,"['Comedy', 'Drama', 'Fantasy']"
+tt7944518,['Thriller']
+tt7949540,['Documentary']
+tt7963848,"['Adventure', 'Drama', 'Family']"
+tt7966708,"['Comedy', 'Horror', 'Mystery']"
+tt7987702,['Family']
+tt7999950,"['Drama', 'Family', 'Romance']"
+tt8001860,['Comedy']
+tt8011424,['Music']
+tt8022676,"['Drama', 'Mystery', 'Romance']"
+tt8041006,"['Drama', 'Romance']"
+tt8042004,['Comedy']
+tt8079790,"['Comedy', 'Drama']"
+tt8096860,['Comedy']
+tt8123506,"['Action', 'Comedy', 'Crime']"
+tt8190860,['Action']
+tt8232648,['Drama']
+tt8244578,['Family']
+tt8255490,['Comedy']
+tt8262802,"['Drama', 'Fantasy', 'Romance']"
+tt8291022,['Family']
+tt8295976,"['Comedy', 'Fantasy', 'Romance']"
+tt8300786,"['Drama', 'Music', 'Romance']"
+tt8322908,"['Comedy', 'Crime', 'Romance']"
+tt8354006,"['Drama', 'Family', 'Romance']"
+tt8377698,['Romance']
+tt8395220,"['Comedy', 'Drama', 'Romance']"
+tt8416396,"['Comedy', 'Drama', 'Family']"
+tt8420670,"['Drama', 'Family', 'Romance']"
+tt8425830,"['Comedy', 'Drama', 'Romance']"
+tt8443810,"['Comedy', 'Drama', 'Music']"
+tt8451018,['Family']
+tt8498184,"['Comedy', 'Romance']"
+tt8510488,"['Comedy', 'Drama', 'Romance']"
+tt8521718,"['Biography', 'Drama', 'Music']"
+tt8535852,"['Animation', 'Musical']"
+tt8539280,"['Adventure', 'Comedy', 'Family']"
+tt8552834,"['Comedy', 'Drama', 'Family']"
+tt8582056,['Comedy']
+tt8583694,['Drama']
+tt8587650,"['Family', 'Romance']"
+tt8611700,"['Comedy', 'Drama', 'Romance']"
+tt8613908,"['Drama', 'Family', 'Romance']"
+tt8623904,"['Comedy', 'Drama', 'Fantasy']"
+tt8634202,"['Fantasy', 'Romance']"
+tt8659750,"['Comedy', 'Drama', 'Romance']"
+tt8667202,"['Comedy', 'Drama', 'Romance']"
+tt8669354,"['Comedy', 'Drama', 'Family']"
+tt8672786,"['Comedy', 'Romance']"
+tt8694374,"['Comedy', 'Drama', 'Family']"
+tt8701132,['Drama']
+tt8705364,"['Comedy', 'Family']"
+tt8708564,"['Comedy', 'Drama', 'Romance']"
+tt8709036,"['Comedy', 'Drama', 'Romance']"
+tt8717018,"['Comedy', 'Romance']"
+tt8732914,"['Comedy', 'Drama', 'Romance']"
+tt8794030,['Comedy']
+tt8796786,"['Family', 'Romance']"
+tt8805246,"['Comedy', 'Drama', 'Romance']"
+tt8824542,['Documentary']
+tt8835626,"['Comedy', 'Drama', 'Romance']"
+tt8846262,['Romance']
+tt8850510,"['Animation', 'Family']"
+tt8851036,"['Comedy', 'Drama']"
+tt8861786,"['Comedy', 'Family', 'Musical']"
+tt8864962,['Crime']
+tt8870442,['Family']
+tt8879926,['Comedy']
+tt8888808,"['Comedy', 'Romance']"
+tt8892454,"['Comedy', 'Drama']"
+tt8894218,['Short']
+tt8932798,['Comedy']
+tt8941352,"['Music', 'Short']"
+tt8942494,"['Comedy', 'Drama', 'Romance']"
+tt8974850,"['Drama', 'Romance']"
+tt8990334,"['Drama', 'Romance']"
+tt9020648,['Comedy']
+tt9024926,"['Comedy', 'Drama']"
+tt9028784,"['Comedy', 'Drama', 'Romance']"
+tt9028802,"['Drama', 'Romance']"
+tt9028856,"['Comedy', 'Drama', 'Romance']"
+tt9028872,"['Comedy', 'Romance']"
+tt9028880,['Romance']
+tt9029324,['Romance']
+tt9030506,"['Comedy', 'Family', 'Music']"
+tt9032562,['Romance']
+tt9033308,"['Comedy', 'Drama', 'Romance']"
+tt9033632,['Romance']
+tt9033634,"['Drama', 'Fantasy', 'Romance']"
+tt9033636,"['Comedy', 'Drama', 'Romance']"
+tt9033640,"['Comedy', 'Drama', 'Romance']"
+tt9033646,"['Drama', 'Romance']"
+tt9033712,"['Drama', 'Romance']"
+tt9047392,"['Comedy', 'Drama', 'Romance']"
+tt9050186,['Romance']
+tt9056196,"['Family', 'Short']"
+tt9057206,['Comedy']
+tt9058820,"['Comedy', 'Drama', 'Romance']"
+tt9058944,['Romance']
+tt9059048,"['Comedy', 'Drama', 'Romance']"
+tt9067272,['Drama']
+tt9068010,"['Animation', 'Short']"
+tt9070794,['Family']
+tt9083646,"['Drama', 'Romance']"
+tt9087578,"['Comedy', 'Drama', 'Romance']"
+tt9093130,"['Comedy', 'Drama', 'Music']"
+tt9101480,"['Drama', 'Family', 'Romance']"
+tt9101692,"['Comedy', 'Drama', 'Romance']"
+tt9102152,"['Drama', 'Fantasy', 'Romance']"
+tt9103028,"['Drama', 'Romance']"
+tt9103602,"['Drama', 'Romance']"
+tt9104384,['Comedy']
+tt9134798,"['Drama', 'Family', 'Romance']"
+tt9136058,"['Animation', 'Drama']"
+tt9144004,"['Comedy', 'Drama', 'Romance']"
+tt9149382,"['Adventure', 'Animation', 'Family']"
+tt9154566,"['Comedy', 'Drama', 'Family']"
+tt9165666,"['Family', 'Musical']"
+tt9168416,"['Comedy', 'Drama', 'Romance']"
+tt9182202,"['Comedy', 'Drama']"
+tt9201720,['Drama']
+tt9202096,"['Drama', 'Romance']"
+tt9202102,['Comedy']
+tt9212666,"['Drama', 'Romance']"
+tt9217732,['Romance']
+tt9217772,['Romance']
+tt9233904,"['Animation', 'Fantasy']"
+tt9251922,"['Animation', 'Family', 'Short']"
+tt9274824,"['Comedy', 'Drama', 'Family']"
+tt9288486,"['Comedy', 'Drama', 'Fantasy']"
+tt9292510,"['Comedy', 'Romance']"
+tt9296692,"['Drama', 'Family', 'Romance']"
+tt9309528,['Family']
+tt9315418,"['Adventure', 'Comedy', 'Drama']"
+tt9316574,"['Drama', 'Family', 'Fantasy']"
+tt9346634,['Musical']
+tt9347106,"['Drama', 'Romance']"
+tt9349994,['Music']
+tt9351618,"['Animation', 'Family']"
+tt9351856,"['Comedy', 'Family', 'Romance']"
+tt9361052,"['Reality-TV', 'Short']"
+tt9371880,['Documentary']
+tt9387380,"['Drama', 'Family', 'Musical']"
+tt9410240,"['Animation', 'Comedy', 'Family']"
+tt9416854,['Animation']
+tt9424462,"['Animation', 'Fantasy', 'Horror']"
+tt9448428,"['Comedy', 'Documentary']"
+tt9460802,"['Animation', 'Family']"
+tt9467594,['Animation']
+tt9472320,['Documentary']
+tt9480418,"['Documentary', 'Short']"
+tt9485074,['Documentary']
+tt9487414,['Documentary']
+tt9489990,['Documentary']
+tt9564270,"['Drama', 'Family']"
+tt9625298,['Comedy']
+tt9636340,['Animation']
+tt9651966,['Comedy']
+tt9669176,"['Action', 'Comedy', 'Crime']"
+tt9683542,"['Action', 'Family']"
+tt9690756,"['Comedy', 'Romance']"
+tt9747440,"['Drama', 'Music', 'Romance']"
+tt9747450,['Romance']
+tt9802890,['Drama']
+tt9813338,['Drama']
+tt9815084,"['Comedy', 'Family', 'Romance']"
+tt9892854,"['Comedy', 'Drama', 'Romance']"
