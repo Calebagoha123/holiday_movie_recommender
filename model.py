@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 #Feature creation
 def transform_features(data):
     enc = OneHotEncoder(handle_unknown='ignore')
-    scaler = StandardScaler()
+    #scaler = StandardScaler()
     
     #OneHotEncode categorical variables
     #genres = data['genres'].str.get_dummies(sep=',').to_numpy() #each individual genre
