@@ -1,8 +1,6 @@
 import pandas as pd
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import AgglomerativeClustering
-from sklearn.cluster import KMeans
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.cluster import AgglomerativeClustering, KMeans
 from sklearn.metrics import silhouette_score
 from sklearn.decomposition import PCA
 import numpy as np
@@ -63,6 +61,7 @@ if __name__ == '__main__':
     holiday_movies.to_csv('movie_clusters.csv', index='False')
     
     
+
     #Reduce dimensions for visualization
     #pca = PCA(n_components=2)
     #features_2d = pca.fit_transform(features)
