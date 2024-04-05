@@ -3,8 +3,8 @@
 
 # Data
 I collected 1M+ rows of data from the IMDB database (see sources below) and filtered for all holiday movies. (See implementation in setup.py)
-    - holiday_movies.csv
-    - holiday_genres.csv
+- holiday_movies.csv
+- holiday_genres.csv
 
 # Model
 I applied one hot encoding to the genres column to get each unique set of genres and categorized the release year into recent or not recent (later than 2000). Finally, I added the type of movie and stacked all the features together into a feature matrix.
